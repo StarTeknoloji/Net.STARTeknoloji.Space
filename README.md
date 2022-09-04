@@ -4,6 +4,7 @@
 # Our Business Metadata
 # Building on Metadata
 # Developing a Metadata Sign, Logo, Symbol
+# I Want Topics to Have Icons
 # My Plan to Write Personal Apps
 #EXAMPLES
 -Optional: Debate Lounge
