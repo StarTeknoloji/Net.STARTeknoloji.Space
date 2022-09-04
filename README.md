@@ -14,4 +14,3 @@ Download as a single file to its Members on the web page.
 As the person uses this application, the classification of the application will change as the features of the application are written to the same application in another person, the communication between each other increases and the application will be able to participate in non-application platforms.
 Location The person is specific
 Fixed and On-Demand Workflows,
-<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
