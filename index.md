@@ -41,10 +41,10 @@
 - starcomputer.space 
 - starteknolog.com
 - yıldızteknoloji.com
-- yıldız.codes (Projet) 
-- yıldızhub.com (Projet)
-- yıldızlab.com (Projet)
-- yıldızhost.com (projet)
+- yıldız.codes (Project) 
+- yıldızhub.com (Project)
+- yıldızlab.com (Project)
+- yıldızhost.com (project)
 ## Support or Contact
 - ercetinguler@starteknoloji.space    
 - ercetinguler@codesexe.com
