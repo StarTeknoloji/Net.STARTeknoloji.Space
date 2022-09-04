@@ -13,5 +13,6 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerabil ##
-https://ercetinguler@codesexe.com
+https://ercetinguler@codesexe.com 
+https://www.starteknoloji.space
 öneri: Yeni başlayan kullanıcıların ilk yapıçağı Dependabot uyarılarını etkinleştirmek.
