@@ -3,7 +3,7 @@
 #  Hoşgeldin !!!          
 # Our Business Metadata
 # Building on Metadata
-# Developing a MEtadata Sign, Logo, Symbol
+# Developing a Metadata Sign, Logo, Symbol
 # My Plan to Write Personal Apps
 #EXAMPLES
 -Optional: Debate Lounge
