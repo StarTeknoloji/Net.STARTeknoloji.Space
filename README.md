@@ -1,4 +1,4 @@
-![5077109_transparent](https://user-images.githubusercontent.com/93947784/175791986-711b4c8a-33a6-4452-838a-d3990bb1f778.png)
+![5077109 (5)](https://user-images.githubusercontent.com/93947784/188660141-62e9ec3d-5690-4d2e-8a8d-573994f17c76.png)
 # https://starteknoloji.space
 #  Hoşgeldin !!!          
 # Our Business Metadata
