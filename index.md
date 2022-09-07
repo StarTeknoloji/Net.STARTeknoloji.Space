@@ -6,6 +6,7 @@
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
+[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg?branch=StarTeknoloji-er%C3%A7eti)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![SLSA generic generator](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml/badge.svg?branch=StarTeknoloji-er%C3%A7eti)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml)
 # StarTeknoloji.space
 ## Computer İnformation Services     
