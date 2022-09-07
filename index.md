@@ -6,6 +6,8 @@
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
+[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg?branch=StarTeknoloji-er%C3%A7eti)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
+[![SLSA generic generator](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml/badge.svg?branch=StarTeknoloji-er%C3%A7eti)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml)
 # StarTeknoloji.space
 ## Computer İnformation Services     
 -  Computer and Peripherals
@@ -57,3 +59,8 @@
            
 Can You Help Me To Improve This Page!!!! Links Above
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
+
+
+<h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
+
+This is a file with a top-level HTML heading

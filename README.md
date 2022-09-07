@@ -1,7 +1,9 @@
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
-[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
+[![SLSA generic generator](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml)
+[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
+[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 ![5077109 (5)](https://user-images.githubusercontent.com/93947784/188660141-62e9ec3d-5690-4d2e-8a8d-573994f17c76.png)
 # https://starteknoloji.space
 #  Hoşgeldin !!!          
