@@ -22,5 +22,5 @@ Location The person is specific
 
 Fixed and On-Demand Workflows,
 
-<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
+
 
