@@ -42,10 +42,8 @@
 - starcomputer.space 
 - starteknolog.com
 - yıldızteknoloji.com
-- yıldız.codes (Project) 
-- yıldızhub.com (Project)
-- yıldızlab.com (Project)
-- yıldızhost.com (project)
+- codes.computer
+- codes.istanbul ( Sale )
 ## Support or Contact
 - ercetinguler@starteknoloji.space    
 - ercetinguler@codesexe.com
