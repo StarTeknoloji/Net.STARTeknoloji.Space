@@ -27,12 +27,7 @@ Fixed and On-Demand Workflows,
 
 This is a file with a top-level HTML heading
 
-[![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg?branch=Codes-Exe-patch-3)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
-[![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg?branch=er%C3%A7etin)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
-[![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
-[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
-[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
-[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
+
 ![5077109](https://user-images.githubusercontent.com/93947784/189415310-005a0ddc-fe72-425f-a3a5-a042aded438d.png)
 # www.StarTeknoloji.Space  
 # Our Business Metadata
