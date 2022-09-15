@@ -34,11 +34,7 @@
 8. Warranty and Outsourcing.
 9. 10:00 ve 19:00 Study.
 
-## Our GitHub On Metadata Open Source Project (Not Started)          
-- Milky Way Open Source Projet
-- Open Source Project www.yıldızhub.com 
-- Open Source Base Name to Start with a yıldız name
-- To be added as www.yıldızlab.com and www.yıldızhost.com
+
   
 [Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
 ## Our Sites 
