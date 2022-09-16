@@ -39,7 +39,9 @@
 8. Warranty and Outsourcing.
 9. 10:00 ve 19:00 Study.
 
-
+## My Personal Project
+Open Source Project https://codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
+Our supporters codes.computer, starteknolog.com, starcomputer.space
   
 [Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
 ## Our Sites 
@@ -48,7 +50,7 @@
 - starteknolog.com
 - yıldızteknoloji.com
 - codes.computer
-- codes.istanbul ( Sale )
+- codes.istanbul
 ## Support or Contact
 - ercetinguler@starteknoloji.space    
 - ercetinguler@codesexe.com
