@@ -7,6 +7,7 @@
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg?branch=er%C3%A7etin)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
+[![Deploy Jekyll site to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
