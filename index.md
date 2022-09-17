@@ -64,5 +64,5 @@ Our supporters codes.computer, starteknolog.com, starcomputer.space
 
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
-## Contribute to Developing the Website!!!! Links Above
+## This is an Emerging Platform. Please Contribute !!!
 UA-240549066-1
