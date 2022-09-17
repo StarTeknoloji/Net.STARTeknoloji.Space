@@ -39,7 +39,7 @@
 8. Warranty and Outsourcing.
 9. 10:00 ve 19:00 Study.
 
-## My Personal Project
+## Our @codes.istanbul project !!!
 Open Source Project https://codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
 Our supporters codes.computer, starteknolog.com, starcomputer.space
   
