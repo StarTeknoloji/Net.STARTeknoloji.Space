@@ -51,14 +51,6 @@ Our supporters codes.computer, starteknolog.com, starcomputer.space
 - yıldızteknoloji.com
 - codes.computer
 - codes.istanbul
-## Support or Contact
-- ercetinguler@starteknoloji.space    
-- ercetinguler@codesexe.com
-- author@codes.computer
-- user@starcomputer.space
-- +90 0507 236 39 28    
-- +90 0288 318 33 40 
-- Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE     
 
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 
@@ -67,4 +59,14 @@ Our supporters codes.computer, starteknolog.com, starcomputer.space
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 ## This is an Emerging Platform. Please Contribute !!!
+
+
+## Support or Contact
+- ercetinguler@starteknoloji.space    
+- ercetinguler@codesexe.com
+- author@codes.computer
+- user@starcomputer.space
+- +90 0507 236 39 28    
+- +90 0288 318 33 40 
+- Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE     
 UA-240549066-1
