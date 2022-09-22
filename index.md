@@ -44,7 +44,7 @@ Open Source Project https://codes.istanbul I am taking my steps and waiting for 
 Our supporters codes.computer, starteknolog.com, starcomputer.space
 
 # ANNOUNCEMENT
-Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with projects are helped to work on this site. It is free.
+Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with projects are helped to work on these sites. It is free.
   
 [Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
 ## Our Sites 
