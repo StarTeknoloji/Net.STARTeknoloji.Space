@@ -56,9 +56,9 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 ### www.codes.istanbul            ( active )
 ### www.codes.ist                 ( active )
 
-https://discord.gg/J2vaXFvC8d
-
-https://discord.new/p24B69R7WePt
+## StarTeknoloji Discord
+- https://discord.gg/J2vaXFvC8d
+- https://discord.new/p24B69R7WePt
 
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 
