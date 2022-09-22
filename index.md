@@ -43,8 +43,8 @@
 Open Source Project https://codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
 Our supporters codes.computer, starteknolog.com, starcomputer.space
 
-## ANNOUNCEMENT
-If anyone wants to contribute to www.codes.istanbul or www.codes.ist, send an e-mail to ercetinguler@starteknoloji.space Those who have a project are helped to get started on these sites.it's free
+# ANNOUNCEMENT
+Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with projects are helped to work on this site. It is free.
   
 [Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
 ## Our Sites 
