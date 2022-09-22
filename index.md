@@ -49,12 +49,12 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
   
 [Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
 ## Our Sites 
-- [Tracing codesexe ](https://codesexe.com)        
-- [Standard Js. Style starteknolog ](https://starteknolog.com)
+- [Tracing CodesExe](https://codesexe.com)        
+- [Standard Js. Style StarTeknolog](https://starteknolog.com)
 - starcomputer.space   ( not published )
 - yıldızteknoloji.com  ( not published )
 - codes.computer       ( not published )
-- [codes İstanbnul Katkıda bulunabilirsiniz](http://codes.istanbul)
+- [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
 - [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
 
 ## StarTeknoloji Discord
