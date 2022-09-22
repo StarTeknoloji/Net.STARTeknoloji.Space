@@ -22,7 +22,6 @@
 -  Server Setup
 -  Enterprise Application Management and Release Development             
 -  Information Technology Consulting, Microsoft MCP Continuity
-   
 ### Missions    
 1. Computer, Phone, Tablet, Technical Service.
 2. Operating System Installation, Application Installation, Backup and Recovery.
@@ -37,9 +36,8 @@
 # Our @codes.istanbul project !!!
 Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
 Our supporters codes.computer, starteknolog.com, starcomputer.space
-
 # ANNOUNCEMENT
-Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with projects are helped to work on these sites. It is free.
+Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
                
 ## Our Sites Published
 - [Tracing CodesExe](https://codesexe.com)        
