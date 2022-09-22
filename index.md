@@ -48,13 +48,13 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
   
 [Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
 ## Our Sites 
-- [https://codesexe.com]            ( active )
-- [https://starteknolog.com]        ( active )
+- [https:/codesexe.com](https://codesexe.com)        
+- [https://starteknolog.com](https://starteknolog.com)
 - https://starcomputer.space   ( not published )
 - https://yıldızteknoloji.com  ( not published )
 - https://codes.computer       ( not published )
-- [www.codes.istanbul]              ( active )
-- [www.codes.ist]                   ( active )
+- [www.codes.istanbul](www.codes.istanbul)
+- [www.codes.ist](www.codes.ist)
 
 ## StarTeknoloji Discord
 [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
