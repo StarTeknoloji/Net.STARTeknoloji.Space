@@ -53,8 +53,8 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 - starcomputer.space   ( not published )
 - yıldızteknoloji.com  ( not published )
 - codes.computer       ( not published )
-- [codes İstanbnul ](http://codes.istanbul)
-- [codes İst ](http://.codes.ist)
+- [codes İstanbnul Katkıda bulunabilirsiniz](http://codes.istanbul)
+- [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
 
 ## StarTeknoloji Discord
 [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
@@ -71,10 +71,10 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 
 
 ## Support or Contact
-- ercetinguler@starteknoloji.space    
-- ercetinguler@codesexe.com
-- author@codes.computer
-- user@starcomputer.space
+- [ercetinguler@starteknoloji.space](ercetinguler@starteknoloji.space)    
+- [ercetinguler@codesexe.com](ercetinguler@codesexe.com)
+- [author@codes.computer](author@codes.computer)
+- [user@starcomputer.space](user@starcomputer.space)
 - +90 0507 236 39 28    
 - +90 0288 318 33 40 
 - Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE     
