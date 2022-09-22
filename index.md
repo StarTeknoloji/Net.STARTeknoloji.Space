@@ -14,6 +14,7 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 [![CodeQL](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql-analysis.yml)
 [![CodeQL](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql.yml)
+
 # StarTeknoloji.space
 ## Computer İnformation Services     
 -  Computer and Peripherals
@@ -58,7 +59,7 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
-## This is an Emerging Platform. Please Contribute !!!
+# This is an Emerging Platform. Please Contribute !!!
 
 ## Support or Contact
 - [ercetinguler@starteknoloji.space](https://outlook.live.com)    
