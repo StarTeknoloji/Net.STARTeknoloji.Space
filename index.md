@@ -22,14 +22,8 @@
 -  Server Setup
 -  Enterprise Application Management and Release Development             
 -  Information Technology Consulting, Microsoft MCP Continuity
-
-
-
- 
-
-
-    
-- Missions    
+   
+### Missions    
 1. Computer, Phone, Tablet, Technical Service.
 2. Operating System Installation, Application Installation, Backup and Recovery.
 3. Official Printout, Photocopy, Color output. 
@@ -40,15 +34,14 @@
 8. Warranty and Outsourcing.
 9. 10:00 ve 19:00 Study.
 
-## Our @codes.istanbul project !!!
+# Our @codes.istanbul project !!!
 Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
 Our supporters codes.computer, starteknolog.com, starcomputer.space
 
 # ANNOUNCEMENT
 Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with projects are helped to work on these sites. It is free.
-  
-[Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
-## Our Sites 
+               
+## Our Sites Published
 - [Tracing CodesExe](https://codesexe.com)        
 - [Standard Js. Style StarTeknolog](https://starteknolog.com)
 - starcomputer.space   ( not published )
@@ -72,10 +65,10 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 
 
 ## Support or Contact
-- [ercetinguler@starteknoloji.space](ercetinguler@starteknoloji.space)    
-- [ercetinguler@codesexe.com](ercetinguler@codesexe.com)
-- [author@codes.computer](author@codes.computer)
-- [user@starcomputer.space](user@starcomputer.space)
+- [ercetinguler@starteknoloji.space](https://outlook.live.com)    
+- [ercetinguler@codesexe.com](https://outlook.live.com)
+- [author@codes.computer](https://outlook.live.com)
+- [user@starcomputer.space](httpd://outlok.live.com)
 - +90 0507 236 39 28    
 - +90 0288 318 33 40 
 - Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE     
