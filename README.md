@@ -1,4 +1,5 @@
-# @starteknoloji.space
+# @starteknoloji.space 
+# Hoşgeldin !!!!
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
@@ -14,14 +15,14 @@
 [![CodeQL](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql-analysis.yml)
 [![CodeQL](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codeql.yml)
 ![5077109 (5)](https://user-images.githubusercontent.com/93947784/188820165-8435f006-22a8-4fab-ab72-481ea978d8e8.png)
+
 # www.StarTeknoloji.Space  
-#  Hoşgeldin !!!          
-# Our Business Metadata
-# Building on Metadata
-# Developing a Metadata Sign, Logo, Symbol
-# Plan to write personal applications
-#EXAMPLES
--Optional: Debate Lounge
+## Our Business Metadata
+## Building on Metadata
+## Developing a Metadata Sign, Logo, Symbol
+## Plan to write personal applications
+## EXAMPLES
+- Optional: Debate Lounge
 1 workflow is as follows. The discussion and discussion of the works left by the person in his application is transferred to other discussion platforms and his membership is added, and as these memberships and platforms increase, the person's star formation means that they appear on other platforms.
 Optional: Pull requests
 The person's desire to share his/her knowledge in Professional Subjects and branches.
