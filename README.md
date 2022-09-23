@@ -17,9 +17,8 @@
 
 # www.StarTeknoloji.Space  
 ## Our Business Metadata
-## Building on Metadata
-## Developing a Metadata Sign, Logo, Symbol
-## Plan to write personal applications
+## Sign, Logo, Symbol     
+## Personal applications
 ## EXAMPLES
 - Optional: Debate Lounge
 1 workflow is as follows. The discussion and discussion of the works left by the person in his application is transferred to other discussion platforms and his membership is added, and as these memberships and platforms increase, the person's star formation means that they appear on other platforms.
