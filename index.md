@@ -51,6 +51,7 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 
 ## Güvenli Alış Veriş (yapım aşamasında)
 - [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal) 
+- <script> document.querySelector('#paypal-button-container') .style.display = 'none'; paypal.Buttons().render('#paypal-button-container'); document.querySelector('#myRadioField') .addEventListener('click', function() { document.querySelector('#paypal-button-container') .style.display = 'block'; }); </script>
 ## StarTeknoloji Discord
 - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
 - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
