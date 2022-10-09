@@ -42,3 +42,373 @@
     </script>
   </body>
 </html>
+createOrder: (data, actions) => {
+      return actions.order.create({
+         "purchase_units": [{
+            "amount": {
+              "currency_code": "USD",
+              "value": "100",
+              "breakdown": {
+                "item_total": {  /* Required when including the items array */
+                  "currency_code": "USD",
+                  "value": "100"
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "First Product Name", /* Shows within upper-right dropdown during payment approval */
+                "description": "Optional descriptive text..", /* Item details will also be in the completed paypal.com transaction view */
+                "unit_amount": {
+                  "currency_code": "USD",
+                  "value": "50"
+                },
+                "quantity": "2"
+              },
+            ]
+          }]
+      });
+    },
+<script>
+  paypal.Buttons({
+    createOrder: function(data, actions) {
+      // Set up the transaction
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: '0.01'
+          }
+        }]
+      });
+    }
+  }).render('#paypal-button-container');
+</script>
+paypal.Buttons({
+  createSubscription: function(data, actions) {
+    return actions.subscription.create({
+      'plan_id': 'P-2UF78835G6983425GLSM44MA'
+    });
+  },
+
+  onApprove: function(data, actions) {
+    alert('You have successfully created subscription ' + data.subscriptionID);
+  }
+}).render('#paypal-button-container');
+paypal.Buttons({
+  createSubscription: function(data, actions) {
+    if (updatedSubscription && (status === 'ACTIVE' || status === 'SUSPENDED')) {
+      return actions.subscription.revise(subscriptionId, {
+        'shipping_amount': {
+          'currency_code': 'USD',
+          'value': '10.00'
+        }
+      });
+    } else {
+      return actions.subscription.create({
+        'plan_id': 'P-2UF78835G6983425GLSM44MA'
+      });
+    }
+  },
+
+  onApprove: function(data, actions) {
+    alert('You have successfully created subscription ' + data.subscriptionID);
+  }
+}).render('#paypal-button-container');
+paypal.Buttons({
+  createOrder: function(data, actions) {
+    // This function sets up the details of the transaction, including the amount and line item details.
+    return actions.order.create({
+      purchase_units: [{
+        amount: {
+          value: '0.01'
+        }
+      }]
+    });
+  },
+  onApprove: function(data, actions) {
+    // This function captures the funds from the transaction.
+    return actions.order.capture().then(function(details) {
+      // This function shows a transaction success message to your buyer.
+      alert('Transaction completed by ' + details.payer.name.given_name);
+    });
+  }
+}).render('#paypal-button-container');
+//This function displays payment buttons on your web page.
+paypal.Buttons({
+  onCancel: function (data) {
+    // Show a cancel page, or return to cart
+  }
+}).render('#paypal-button-container');
+paypal.Buttons({
+  onError: function (err) {
+    // For example, redirect to a specific error page
+    window.location.href = "/your-error-page-here";
+  }
+}).render('#paypal-button-container');
+<p id="error" class="hidden">Click the checkbox</p>
+<label><input id="check" type="checkbox" required> Click here to continue</label>
+
+<script>
+  paypal.Buttons({
+
+    // onInit is called when the button first renders
+    onInit: function(data, actions)  {
+
+      // Disable the buttons
+      actions.disable();
+
+      // Listen for changes to the checkbox
+      document.querySelector('#check')
+        .addEventListener('change', function(event) {
+
+          // Enable or disable the button when it is checked or unchecked
+          if (event.target.checked)  {
+            actions.enable();
+          } else  {
+            actions.disable();
+          }
+      });
+    },
+
+    // onClick is called when the button is clicked
+    onClick: function()  {
+
+      // Show a validation error if the checkbox is not checked
+      if (!document.querySelector('#check').checked) {
+        document.querySelector('#error').classList.remove('hidden');
+      }
+    }
+
+  }).render('#paypal-button-container');
+</script>
+// Loop over each funding source / payment method
+paypal.getFundingSources().forEach(function(fundingSource) {
+
+  // Initialize the buttons
+  var button = paypal.Buttons({
+    fundingSource: fundingSource
+  });
+
+  // Check if the button is eligible
+  if (button.isEligible()) {
+
+    // Render the standalone button for that funding source
+    button.render('#paypal-button-container');
+  }
+});
+paypal.Buttons().render('#paypal-buttons-container');
+<script src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID&components=buttons,marks"></script>
+paypal.Buttons({
+  onCancel: function (data) {
+    // Show a cancel page, or return to cart
+  }
+}).render('#paypal-button-container');
+paypal.Buttons({
+  onError: function (err) {
+    // For example, redirect to a specific error page
+    window.location.href = "/your-error-page-here";
+  }
+}).render('#paypal-button-container');
+<p id="error" class="hidden">Click the checkbox</p>
+<label><input id="check" type="checkbox" required> Click here to continue</label>
+
+<script>
+  paypal.Buttons({
+
+    // onInit is called when the button first renders
+    onInit: function(data, actions)  {
+
+      // Disable the buttons
+      actions.disable();
+
+      // Listen for changes to the checkbox
+      document.querySelector('#check')
+        .addEventListener('change', function(event) {
+
+          // Enable or disable the button when it is checked or unchecked
+          if (event.target.checked)  {
+            actions.enable();
+          } else  {
+            actions.disable();
+          }
+      });
+    },
+
+    // onClick is called when the button is clicked
+    onClick: function()  {
+
+      // Show a validation error if the checkbox is not checked
+      if (!document.querySelector('#check').checked) {
+        document.querySelector('#error').classList.remove('hidden');
+      }
+    }
+
+  }).render('#paypal-button-container');
+</script>
+// Loop over each funding source / payment method
+paypal.getFundingSources().forEach(function(fundingSource) {
+
+  // Initialize the buttons
+  var button = paypal.Buttons({
+    fundingSource: fundingSource
+  });
+
+  // Check if the button is eligible
+  if (button.isEligible()) {
+
+    // Render the standalone button for that funding source
+    button.render('#paypal-button-container');
+  }
+});
+paypal.Buttons().render('#paypal-buttons-container');
+paypal.Buttons({
+  onShippingChange: function(data, actions) {
+    if (data.shipping_address.country_code !== 'US') {
+      return actions.reject();
+    }
+
+    return actions.resolve();
+  }
+}).render('#paypal-button-container');
+const baseOrderAmount = '15.00';
+
+paypal.Buttons({
+  onShippingChange: function(data, actions) {
+    // Reject non-US addresses
+    if (data.shipping_address.country_code !== 'US') {
+      return actions.reject();
+    }
+
+    // Patch the shipping amount
+    const shippingAmount = data.shipping_address.state === 'CA' ? '0.00' : '5.00';
+    return actions.order.patch([
+      {
+        op: 'replace',
+        path: '/purchase_units/@reference_id==\'default\'/amount',
+        value: {
+          currency_code: 'USD',
+          value: (parseFloat(baseOrderAmount) + parseFloat(shippingAmount)).toFixed(2),
+          breakdown: {
+            item_total: {
+              currency_code: 'USD',
+              value: baseOrderAmount
+            },
+            shipping: {
+              currency_code: 'USD',
+              value: shippingAmount
+            }
+          }
+        }
+      }
+    ]);
+  }
+}).render('#paypal-button-container');
+// Loop over each funding source / payment method
+paypal.getFundingSources().forEach(function(fundingSource) {
+
+  // Initialize the marks
+  var mark = paypal.Marks({
+    fundingSource: fundingSource
+  });
+
+  // Check if the mark is eligible
+  if (mark.isEligible()) {
+
+    // Render the standalone mark for that funding source
+    mark.render('#paypal-mark-container');
+  }
+});
+paypal.Marks().render('#paypal-marks-container');
+<!-- Render the radio buttons and marks -->
+<label>
+  <input type="radio" name="payment-option" value="paypal" checked>
+  <div id="paypal-marks-container"></div>
+</label>
+
+<label>
+  <input type="radio" name="payment-option" value="alternate">
+</label>
+
+<div id="paypal-buttons-container"></div>
+<div id="alternate-button-container">
+  <button>Pay with a different method</button>
+</div>
+
+<script>
+  // Render the PayPal marks
+  paypal.Marks().render('#paypal-marks-container');
+
+  // Render the PayPal buttons
+  paypal.Buttons().render('#paypal-buttons-container');
+
+  // Listen for changes to the radio buttons
+  document.querySelectorAll('input[name=payment-option]')
+    .forEach(function (el) {
+      el.addEventListener('change', function (event) {
+
+        // If PayPal is selected, show the PayPal button
+        if (event.target.value === 'paypal') {
+          document.body.querySelector('#alternate-button-container')
+            .style.display = 'none';
+          document.body.querySelector('#paypal-buttons-container')
+            .style.display = 'block';
+        }
+
+        // If alternate funding is selected, show a different button
+        if (event.target.value === 'alternate') {
+          document.body.querySelector('#alternate-button-container')
+            .style.display = 'block';
+          document.body.querySelector('#paypal-buttons-container')
+            .style.display = 'none';
+        }
+      });
+    });
+
+  // Hide non-PayPal button by default
+  document.body.querySelector('#alternate-button-container')
+    .style.display = 'none';
+</script>
+paypal.HostedFields.render({
+  styles: {
+    'input': {
+      'font-size': '16pt',
+      'color': '#3A3A3A'
+    },
+    '.number': {
+      'font-family': 'monospace'
+    },
+    '.valid':  {
+      'color': 'green'
+    }
+  },
+  fields: {
+    number: {
+      selector: '#card-number'
+    },
+    cvv: {
+      selector: '#cvv',
+      placeholder: '•••'
+    },
+    expirationDate: {
+      selector: '#expiration-date'
+    }
+  }
+});
+paypal.rememberFunding([ paypal.FUNDING.VENMO ]);
+paypal.getFundingSources().forEach(function(fundingSource) {
+  // ...
+});
+paypal.isFundingEligible(fundingSource);
+<div id="paypal-button-container"></div>
+
+<script>
+  paypal.Buttons().render('#paypal-button-container')
+</script>
+<div id="paypal-button-container"></div>
+
+<script>
+   document.querySelector('#myRadioField')
+     .addEventListener('click', function() {
+       paypal.Buttons().render('#paypal-button-container')
+     });
+</script>
