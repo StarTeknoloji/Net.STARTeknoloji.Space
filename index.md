@@ -51,7 +51,7 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 
 ## Güvenli Alış Veriş (yapım aşamasında)
 - [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal)
--  paypal.Buttons({
+- [ paypal.Buttons ] ({
   createOrder: function(data, actions) {
     // This function sets up the details of the transaction, including the amount and line item details.
     return actions.order.create({
@@ -71,12 +71,12 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
   }
 }).render('#paypal-button-container');
 //This function displays payment buttons on your web page.
-paypal.Buttons({
+[paypal.Buttons]({
   onCancel: function (data) {
     // Show a cancel page, or return to cart
   }
 }).render('#paypal-button-container');
-paypal.Buttons({
+[paypal.Buttons]({
   onError: function (err) {
     // For example, redirect to a specific error page
     window.location.href = "/your-error-page-here";
