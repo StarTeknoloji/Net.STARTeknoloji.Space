@@ -85,7 +85,12 @@ paypal.Buttons({
 <p id="error" class="hidden">Click the checkbox</p>
 <label><input id="check" type="checkbox" required> Click here to continue</label>
 <script> document.querySelector('#paypal-button-container') .style.display = 'none'; paypal.Buttons().render('#paypal-button-container'); document.querySelector('#myRadioField') .addEventListener('click', function() { document.querySelector('#paypal-button-container') .style.display = 'block'; }); 
-
+paypal.rememberFunding([ paypal.FUNDING.VENMO ]);
+paypal.getFundingSources().forEach(function(fundingSource) {
+  // ...
+});
+paypal.isFundingEligible(fundingSource);
+<div id="paypal-button-container"></div>
 
 ## StarTeknoloji Discord
 - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
