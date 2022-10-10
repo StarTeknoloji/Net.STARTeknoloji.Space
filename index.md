@@ -50,8 +50,43 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 - [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
 
 ## Güvenli Alış Veriş (yapım aşamasında)
-- [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal) 
-- <script> document.querySelector('#paypal-button-container') .style.display = 'none'; paypal.Buttons().render('#paypal-button-container'); document.querySelector('#myRadioField') .addEventListener('click', function() { document.querySelector('#paypal-button-container') .style.display = 'block'; }); </script>
+- [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal)
+-  paypal.Buttons({
+  createOrder: function(data, actions) {
+    // This function sets up the details of the transaction, including the amount and line item details.
+    return actions.order.create({
+      purchase_units: [{
+        amount: {
+          value: '0.01'
+        }
+      }]
+    });
+  },
+  onApprove: function(data, actions) {
+    // This function captures the funds from the transaction.
+    return actions.order.capture().then(function(details) {
+      // This function shows a transaction success message to your buyer.
+      alert('Transaction completed by ' + details.payer.name.given_name);
+    });
+  }
+}).render('#paypal-button-container');
+//This function displays payment buttons on your web page.
+paypal.Buttons({
+  onCancel: function (data) {
+    // Show a cancel page, or return to cart
+  }
+}).render('#paypal-button-container');
+paypal.Buttons({
+  onError: function (err) {
+    // For example, redirect to a specific error page
+    window.location.href = "/your-error-page-here";
+  }
+}).render('#paypal-button-container');
+<p id="error" class="hidden">Click the checkbox</p>
+<label><input id="check" type="checkbox" required> Click here to continue</label>
+<script> document.querySelector('#paypal-button-container') .style.display = 'none'; paypal.Buttons().render('#paypal-button-container'); document.querySelector('#myRadioField') .addEventListener('click', function() { document.querySelector('#paypal-button-container') .style.display = 'block'; }); 
+
+
 ## StarTeknoloji Discord
 - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
 - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
