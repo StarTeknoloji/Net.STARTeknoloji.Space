@@ -41,13 +41,13 @@ Our supporters codes.computer, starteknolog.com, starcomputer.space
 Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
                
 ## Our Sites Published
-- [Tracing CodesExe](https://codesexe.com)        
-- [Standard Js. Style StarTeknolog](https://starteknolog.com)
-- starcomputer.space   ( not published )
-- yıldızteknoloji.com  ( not published )
-- codes.computer       ( not published )
-- [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
-- [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+> [Tracing CodesExe](https://codesexe.com)        
+> [Standard Js. Style StarTeknolog](https://starteknolog.com)
+> starcomputer.space   ( not published )
+> yıldızteknoloji.com  ( not published )
+> codes.computer       ( not published )
+> [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
+> [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
 
 ## Güvenli Alış Veriş (yapım aşamasında)
 - [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal)
@@ -93,8 +93,8 @@ paypal.isFundingEligible(fundingSource);
 <div id="paypal-button-container"></div>
 
 ## StarTeknoloji Discord
-- [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
-- [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
+> [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
+> [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
 
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 
