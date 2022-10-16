@@ -17,22 +17,22 @@
 
 # StarTeknoloji.space
 ## Computer İnformation Services     
--  Computer and Peripherals
--  Network Setup
--  Website Setup 
--  Server Setup
--  Enterprise Application Management and Release Development             
--  Information Technology Consulting, Microsoft MCP Continuity
+> -  Computer and Peripherals
+> -  Network Setup
+> -  Website Setup 
+> -  Server Setup
+> -  Enterprise Application Management and Release Development             
+> -  Information Technology Consulting, Microsoft MCP Continuity
 ### Missions    
-1. Computer, Phone, Tablet, Technical Service.
-2. Operating System Installation, Application Installation, Backup and Recovery.
-3. Official Printout, Photocopy, Color output. 
-4. Security Camera ve Web Cablo  Connection.
-5. A4 PVC Coating, Spiral Notebook.
-6. Second-Hand Trading.
-7. We have Motherboard Repair, Eprom process, Soldering.
-8. Warranty and Outsourcing.
-9. 10:00 ve 19:00 Study.
+> 1. Computer, Phone, Tablet, Technical Service.
+> 2. Operating System Installation, Application Installation, Backup and Recovery.
+> 3. Official Printout, Photocopy, Color output. 
+> 4. Security Camera ve Web Cablo  Connection.
+> 5. A4 PVC Coating, Spiral Notebook.
+> 6. Second-Hand Trading.
+> 7. We have Motherboard Repair, Eprom process, Soldering.
+> 8. Warranty and Outsourcing.
+> 9. 10:00 ve 19:00 Study.
 
 # Our @codes.istanbul project !!!
 Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
