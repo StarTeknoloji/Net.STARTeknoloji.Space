@@ -259,21 +259,6 @@ paypal.getFundingSources().forEach(function(fundingSource) {
     button.render('#paypal-button-container');
   }
 });
-paypal.Buttons().render('#paypal-buttons-container');
-<script src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID&components=buttons,marks"></script>
-paypal.Buttons({
-  onCancel: function (data) {
-    // Show a cancel page, or return to cart
-  }
-}).render('#paypal-button-container');
-paypal.Buttons({
-  onError: function (err) {
-    // For example, redirect to a specific error page
-    window.location.href = "/your-error-page-here";
-  }
-}).render('#paypal-button-container');
-<p id="error" class="hidden">Click the checkbox</p>
-<label><input id="check" type="checkbox" required> Click here to continue</label>
 
 <script>
   paypal.Buttons({
@@ -307,95 +292,6 @@ paypal.Buttons({
     }
 
   }).render('#paypal-button-container');
-</script>
-// Loop over each funding source / payment method
-paypal.getFundingSources().forEach(function(fundingSource) {
-
-  // Initialize the buttons
-  var button = paypal.Buttons({
-    fundingSource: fundingSource
-  });
-
-  // Check if the button is eligible
-  if (button.isEligible()) {
-
-    // Render the standalone button for that funding source
-    button.render('#paypal-button-container');
-  }
-});
-paypal.Buttons().render('#paypal-buttons-container');
-paypal.Buttons({
-  onShippingChange: function(data, actions) {
-    if (data.shipping_address.country_code !== 'US') {
-      return actions.reject();
-    }
-
-    return actions.resolve();
-  }
-}).render('#paypal-button-container');
-const baseOrderAmount = '15.00';
-
-paypal.Buttons({
-  onShippingChange: function(data, actions) {
-    // Reject non-US addresses
-    if (data.shipping_address.country_code !== 'US') {
-      return actions.reject();
-    }
-
-    // Patch the shipping amount
-    const shippingAmount = data.shipping_address.state === 'CA' ? '0.00' : '5.00';
-    return actions.order.patch([
-      {
-        op: 'replace',
-        path: '/purchase_units/@reference_id==\'default\'/amount',
-        value: {
-          currency_code: 'USD',
-          value: (parseFloat(baseOrderAmount) + parseFloat(shippingAmount)).toFixed(2),
-          breakdown: {
-            item_total: {
-              currency_code: 'USD',
-              value: baseOrderAmount
-            },
-            shipping: {
-              currency_code: 'USD',
-              value: shippingAmount
-            }
-          }
-        }
-      }
-    ]);
-  }
-}).render('#paypal-button-container');
-// Loop over each funding source / payment method
-paypal.getFundingSources().forEach(function(fundingSource) {
-
-  // Initialize the marks
-  var mark = paypal.Marks({
-    fundingSource: fundingSource
-  });
-
-  // Check if the mark is eligible
-  if (mark.isEligible()) {
-
-    // Render the standalone mark for that funding source
-    mark.render('#paypal-mark-container');
-  }
-});
-paypal.Marks().render('#paypal-marks-container');
-<!-- Render the radio buttons and marks -->
-<label>
-  <input type="radio" name="payment-option" value="paypal" checked>
-  <div id="paypal-marks-container"></div>
-</label>
-
-<label>
-  <input type="radio" name="payment-option" value="alternate">
-</label>
-
-<div id="paypal-buttons-container"></div>
-<div id="alternate-button-container">
-  <button>Pay with a different method</button>
-</div>
 
 <script>
   // Render the PayPal marks
@@ -427,34 +323,4 @@ paypal.Marks().render('#paypal-marks-container');
       });
     });
 
-  // Hide non-PayPal button by default
-  document.body.querySelector('#alternate-button-container')
-    .style.display = 'none';
-</script>
-paypal.HostedFields.render({
-  styles: {
-    'input': {
-      'font-size': '16pt',
-      'color': '#3A3A3A'
-    },
-    '.number': {
-      'font-family': 'monospace'
-    },
-    '.valid':  {
-      'color': 'green'
-    }
-  },
-  fields: {
-    number: {
-      selector: '#card-number'
-    },
-    cvv: {
-      selector: '#cvv',
-      placeholder: '•••'
-    },
-    expirationDate: {
-      selector: '#expiration-date'
-    }
-  }
-});
 
