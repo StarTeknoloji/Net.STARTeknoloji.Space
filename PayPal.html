@@ -1,37 +1,4 @@
 
-// base URL will need to change for production applications
-const base = "https://api-m.sandbox.paypal.com";
-
-const { AYeIQzQn3fdcGPZbHquJibk373lKZlRmqnfAP1HjAYh1na7Agt-SQmcfv-_1ahWu1Qvc00UNsigi6kUT, ECHx_Nf5eAqI7fRBh4-cQbX4Vwn0L06T6wB08TZ7Z6ewZgiwAfQvBY8lcb_7ikap2M-zGRFBE0qOms3o } = process.env; // pull from environment variables
-
-// call this function to create your client token
-async function generateClientToken() {
-  const accessToken = await generateAccessToken();
-  const response = await fetch(`${base}/v1/identity/generate-token`, {
-    method: "post",
-    headers: {
-      Authorization: `Bearer ${accessToken}`,
-      "Accept-Language": "en_US",
-      "Content-Type": "application/json",
-    },
-  });
-  const data = await response.json();
-  return data.client_token;
-}
-
-// access token is used to authenticate all REST API requests
-async function generateAccessToken() {
-  const auth = Buffer.from(AYeIQzQn3fdcGPZbHquJibk373lKZlRmqnfAP1HjAYh1na7Agt-SQmcfv-_1ahWu1Qvc00UNsigi6kUT + ":" + ECHx_Nf5eAqI7fRBh4-cQbX4Vwn0L06T6wB08TZ7Z6ewZgiwAfQvBY8lcb_7ikap2M-zGRFBE0qOms3o).toString("base64");
-  const response = await fetch(`${base}/v1/oauth2/token`, {
-    method: "post",
-    body: "grant_type=client_credentials",
-    headers: {
-      Authorization: `Basic ${auth}`,
-    },
-  });
-  const data = await response.json();
-  return data.access_token;
-}
 
 <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
