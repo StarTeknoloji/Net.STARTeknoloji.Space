@@ -163,7 +163,7 @@ async function capturePayment(orderId) {
 
 // generate an access token using client id and app secret
 async function generateAccessToken() {
-  const auth = Buffer.from( AYeIQzQn3fdcGPZbHquJibk373lKZlRmqnfAP1HjAYh1na7Agt-SQmcfv-_1ahWu1Qvc00UNsigi6kUT + ":" + APP_SECRET).toString("base64")
+  const auth = Buffer.from( AYeIQzQn3fdcGPZbHquJibk373lKZlRmqnfAP1HjAYh1na7Agt-SQmcfv-_1ahWu1Qvc00UNsigi6kUT + ":" +ECHx_Nf5eAqI7fRBh4-cQbX4Vwn0L06T6wB08TZ7Z6ewZgiwAfQvBY8lcb_7ikap2M-zGRFBE0qOms3o).toString("base64")
   const response = await fetch(`${base}/v1/oauth2/token`, {
     method: "post",
     body: "grant_type=client_credentials",
