@@ -2,8 +2,19 @@
 >![indir (23)](https://user-images.githubusercontent.com/93947784/196597904-0d5d30fc-6089-484a-a98a-56bdae154d05.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg) 
 ## www.teknoloji.space
 ## @teknoloji.space
-![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
-![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
+>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
+## Satışını yaptığımız Domain, İnternet Alanları
+- www.teknoloji.mobi       3000$
+- www.teknoloji.domain     3000$
+- www.teknoloji.repair     3000$   
+- www.teknoloji.host       3000$
+- www.teknoloji.cloud      3000$    
+- www.teknoloji.codes      3000$ 
+- www.teknoloji.computer   3000$ 
+- www.teknoloji.Support    3000$
+- www.teknoloji.systems    3000$
+- www.teknoloji.services   3000$ 
+>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
