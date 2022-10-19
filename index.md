@@ -8,43 +8,43 @@
 - > 3000$  www.teknoloji.domains
 - > www.teknoloji.repair     3000$   
 - > www.teknoloji.host       3000$
-- www.teknoloji.cloud      3000$    
-- www.teknoloji.codes      3000$ 
-- www.teknoloji.computer   3000$ 
-- www.teknoloji.Support    3000$
-- www.teknoloji.systems    3000$
-- www.teknoloji.services   3000$ 
-- www.teknoloji.download   3000$
-- www.teknoloji.life       3000$  
-- www.teknoloji.report     3000$
-- www.teknoloji.agency     3000$
-- www.teknoloji.team       3000$
-- www.teknoloji.media      3000$
-- www.teknoloji.world      3000$
-- www.teknoloji.shop       3000$
-- www.teknoloji.asia       3000$
-- www.teknoloji.email      3000$
-- www.teknoloji.ws         3000$
-- www.teknoloji.run        3000$ 
-- www.teknoloji.directory  3000$
-- www.teknoloji.software   3000$ 
-- www.teknoloji.guru       3000$ 
-- www.teknoloji.live       3000$
-- www.teknoloji.city       3000$
-- www.teknoloji.games      3000$ 
-- www.teknoloji.graphics   3000$
-- www.teknoloji.desing     3000$
-- www.teknoloji.work       3000$ 
-- www.teknoloji.foundation 3000$ 
-- www.teknoloji.solutions  3000$ 
-- www.teknoloji.international 3000$
-- www.teknoloji.exchange    3000$ 
-- www.teknoloji.photos      3000$
-- www.teknoloji.ink         3000$
-- www.teknoloji.gold        3000$ 
-- www.teknoloji.fit         3000$   
-- www.teknoloji.uno         3000$
-- www.teknoloji.tel         3000$
+- > www.teknoloji.cloud      3000$    
+- > www.teknoloji.codes      3000$ 
+- > www.teknoloji.computer   3000$ 
+- > www.teknoloji.Support    3000$
+- > www.teknoloji.systems    3000$
+- > www.teknoloji.services   3000$ 
+- > www.teknoloji.download   3000$
+- > www.teknoloji.life       3000$  
+- > www.teknoloji.report     3000$
+- > www.teknoloji.agency     3000$
+- > www.teknoloji.team       3000$
+- > www.teknoloji.media      3000$
+- >>www.teknoloji.world      3000$
+- > www.teknoloji.shop       3000$
+- > www.teknoloji.asia       3000$
+- > www.teknoloji.email      3000$
+- > www.teknoloji.ws         3000$
+- > www.teknoloji.run        3000$ 
+- > www.teknoloji.directory  3000$
+- > www.teknoloji.software   3000$ 
+- > www.teknoloji.guru       3000$ 
+- > www.teknoloji.live       3000$
+- > www.teknoloji.city       3000$
+- > www.teknoloji.games      3000$ 
+- > www.teknoloji.graphics   3000$
+- > www.teknoloji.desing     3000$
+- > www.teknoloji.work       3000$ 
+- > www.teknoloji.foundation 3000$ 
+- > www.teknoloji.solutions  3000$ 
+- > www.teknoloji.international 3000$
+- > www.teknoloji.exchange    3000$ 
+- > www.teknoloji.photos      3000$
+- > www.teknoloji.ink         3000$
+- > www.teknoloji.gold        3000$ 
+- > www.teknoloji.fit         3000$   
+- > www.teknoloji.uno         3000$
+- > www.teknoloji.tel         3000$
 ![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
