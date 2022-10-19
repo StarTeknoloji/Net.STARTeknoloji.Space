@@ -30,6 +30,7 @@
 - > ## www.teknoloji.software   3000$ 
 - > ## www.teknoloji.guru       3000$ 
 - > ## www.teknoloji.live       3000$
+- > ## www.teknoloji.life       3000$
 - > ## www.teknoloji.city       3000$
 - > ## www.teknoloji.games      3000$ 
 - > ## www.teknoloji.graphics   3000$
