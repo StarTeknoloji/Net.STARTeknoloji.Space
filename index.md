@@ -5,9 +5,9 @@
 >![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
 ## Satışını yaptığımız Domain, İnternet Alanları
 -  3000$ [ www.teknoloji.mobi ](https://www.afternic.com/forsale/teknoloji.mobi?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
-- 3000$  www.teknoloji.domains
-- www.teknoloji.repair     3000$   
-- www.teknoloji.host       3000$
+- > 3000$  www.teknoloji.domains
+- > www.teknoloji.repair     3000$   
+- > www.teknoloji.host       3000$
 - www.teknoloji.cloud      3000$    
 - www.teknoloji.codes      3000$ 
 - www.teknoloji.computer   3000$ 
