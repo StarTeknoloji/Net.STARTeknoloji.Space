@@ -4,8 +4,8 @@
 ## @teknoloji.space
 >![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
 ## Satışını yaptığımız Domain, İnternet Alanları
-- www.teknoloji.mobi       3000$
-- www.teknoloji.domain     3000$
+-  3000$ [ www.teknoloji.mobi ](https://www.afternic.com/forsale/teknoloji.mobi?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
+- 3000$ [ www.teknoloji.domains ](https://  
 - www.teknoloji.repair     3000$   
 - www.teknoloji.host       3000$
 - www.teknoloji.cloud      3000$    
@@ -14,6 +14,37 @@
 - www.teknoloji.Support    3000$
 - www.teknoloji.systems    3000$
 - www.teknoloji.services   3000$ 
+- www.teknoloji.download   3000$
+- www.teknoloji.life       3000$  
+- www.teknoloji.report     3000$
+- www.teknoloji.agency     3000$
+- www.teknoloji.team       3000$
+- www.teknoloji.media      3000$
+- www.teknoloji.world      3000$
+- www.teknoloji.shop       3000$
+- www.teknoloji.asia       3000$
+- www.teknoloji.email      3000$
+- www.teknoloji.ws         3000$
+- www.teknoloji.run        3000$ 
+- www.teknoloji.directory  3000$
+- www.teknoloji.software   3000$ 
+- www.teknoloji.guru       3000$ 
+- www.teknoloji.live       3000$
+- www.teknoloji.city       3000$
+- www.teknoloji.games      3000$ 
+- www.teknoloji.graphics   3000$
+- www.teknoloji.desing     3000$
+- www.teknoloji.work       3000$ 
+- www.teknoloji.foundation 3000$ 
+- www.teknoloji.solutions  3000$ 
+- www.teknoloji.international 3000$
+- www.teknoloji.exchange    3000$ 
+- www.teknoloji.photos      3000$
+- www.teknoloji.ink         3000$
+- www.teknoloji.gold        3000$ 
+- www.teknoloji.fit         3000$   
+- www.teknoloji.uno         3000$
+- www.teknoloji.tel         3000$
 >![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
