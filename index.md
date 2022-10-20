@@ -83,7 +83,7 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
                
 ## Our Sites Published
 >> - [Tracing CodesExe](https://codesexe.com)        
->>  -[StarTeknolog Standard Js. Style](https://starteknolog.com)
+>> - [StarTeknolog Standard Js. Style](https://starteknolog.com)
 >> - [starcomputer.space Fast Pages](https://starcomputer.space)   
 >> - [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
 >> - [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
@@ -96,8 +96,8 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 - [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal)
 
 ## StarTeknoloji Discord
-> [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
-> [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
+> - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
+> - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
 
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 
