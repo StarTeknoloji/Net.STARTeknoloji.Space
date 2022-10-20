@@ -15,7 +15,7 @@
 - > ## www.teknoloji.gold       ## www.teknoloji.fit       ## www.teknoloji.uno        ## www.teknoloji.tel           
 - > ## www.teknoloji.download   ## www.teknoloji.repair    ## www.teknoloji.host       ## www.teknoloji.cloud       
 - > ## www.teknoloji.codes      ## www.teknoloji.computer  ## www.teknoloji.domains    ## www.teknoloji.international     
-   `*% Alanlarla İlgilenenler Afternic.com ' dan Ulaşabilir.`
+< ## 5000$ ile 3000$ arasında değişir.  `% Alanlarla İlgilenenler Afternic.com ' dan Ulaşabilir.`
    
 >>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
@@ -52,22 +52,9 @@
 ### Our supporters codes.computer, starteknolog.com, starcomputer.space
 # *ANNOUNCEMENT
 ### - Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
-               
-## *Our Sites Published
->> - [Tracing CodesExe](https://codesexe.com)        
->> - [StarTeknolog Standard Js. Style](https://starteknolog.com)
->> - [starcomputer.space Fast Pages](https://starcomputer.space)   
->> - [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
->> - [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
->> - yıldızteknoloji.com  ( not published )
->> - codes.computer       ( not published )
->> - www.teknoloji.space 
->> - www.starteknoloji.net
-
-## % Güvenli Alış Veriş (yapım aşamasında)
-- [Ürünlerimiz PayPal Ödeme](https://starteknoloji.space/PayPal)
-
-## *StarTeknoloji Discord
+# *% Güvenli Alış Veriş (yapım aşamasında)
+## - [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
+# *StarTeknoloji Discord
 >> - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
 >> - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
 
@@ -79,6 +66,16 @@
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 > # *This is an Emerging Platform. Please Contribute !!!
+## *Our Sites Published
+>> - [Tracing CodesExe](https://codesexe.com)        
+>> - [StarTeknolog Standard Js. Style](https://starteknolog.com)
+>> - [starcomputer.space Fast Pages](https://starcomputer.space)   
+>> - [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
+>> - [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+>> - yıldızteknoloji.com  ( not published )
+>> - codes.computer       ( not published )
+>> - www.teknoloji.space 
+>> - www.starteknoloji.net
 
 ## *Support or Contact
 - [ercetinguler@starteknoloji.space](https://outlook.live.com)    
