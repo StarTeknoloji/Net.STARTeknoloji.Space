@@ -58,12 +58,12 @@
 
 # *StarTeknoloji.space
 ## Computer İnformation Services     
-> -  Computer and Peripherals
-> -  Network Setup
-> -  Website Setup 
-> -  Server Setup
-> -  Enterprise Application Management and Release Development             
-> -  Information Technology Consulting, Microsoft MCP Continuity
+> - `Computer and Peripherals`
+> -  `Network Setup`
+> -  `Website Setup` 
+> -  `Server Setup`
+> -  `Enterprise Application Management and Release Development`             
+> -  `Information Technology Consulting, Microsoft MCP Continuity`
 ### Missions    
 > 1. Computer, Phone, Tablet, Technical Service.
 > 2. Operating System Installation, Application Installation, Backup and Recovery.
@@ -99,10 +99,10 @@
 >> - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
 >> - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
 
+
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
+
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
-`<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>`
-`<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>`
 
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
