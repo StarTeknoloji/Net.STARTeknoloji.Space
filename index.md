@@ -1,7 +1,5 @@
 # @starteknoloji  !!![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 >![indir (23)](https://user-images.githubusercontent.com/93947784/196597904-0d5d30fc-6089-484a-a98a-56bdae154d05.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg) 
-## www.teknoloji.space
-## @teknoloji.space
 ![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
 ## Satışını yaptığımız Domain, İnternet Alanları
 - > ## 3000$ [ www.teknoloji.mobi ](https://www.afternic.com/forsale/teknoloji.mobi?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
@@ -84,17 +82,18 @@ Our supporters codes.computer, starteknolog.com, starcomputer.space
 Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
                
 ## Our Sites Published
-> [Tracing CodesExe](https://codesexe.com)        
-> [Standard Js. Style StarTeknolog](https://starteknolog.com)
-> starcomputer.space   ( not published )
-> yıldızteknoloji.com  ( not published )
-> codes.computer       ( not published )
-> [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
-> [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+>> [Tracing CodesExe](https://codesexe.com)        
+>> [StarTeknolog Standard Js. Style](https://starteknolog.com)
+>> [starcomputer.space Fast Pages](https://starcomputer.space)   
+>> [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
+>> [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+>> yıldızteknoloji.com  ( not published )
+>> codes.computer       ( not published )
+>> www.teknoloji.space 
+>> www.starteknoloji.net
 
 ## Güvenli Alış Veriş (yapım aşamasında)
 - [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal)
-
 
 ## StarTeknoloji Discord
 > [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
@@ -117,23 +116,4 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 - +90 0288 318 33 40 
 - [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)     
 UA-240549066-1S
-> Bir Gün Türkiyede Star Teknoloji'den Başka Hiçbiri Kalamayacak.
-
-  
-  
-  <!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Ensures optimal rendering on mobile devices. -->
-  </head>
-
-  <body>
-    <script src="https://www.paypal.com/sdk/js?client-id=AYeIQzQn3fdcGPZbHquJibk373lKZlRmqnfAP1HjAYh1na7Agt-SQmcfv-_1ahWu1Qvc00UNsigi6kUT"> // Replace YOUR_CLIENT_ID with your sandbox client ID
-    </script>
-
-    <div id="paypal-button-container"></div>
-
-  </body>
-</html>
-
-<div id="paypal-button-container"></div>
+      
