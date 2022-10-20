@@ -1,4 +1,4 @@
-# @starteknoloji  !!![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
+# @*starteknoloji  !!![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 >![indir (23)](https://user-images.githubusercontent.com/93947784/196597904-0d5d30fc-6089-484a-a98a-56bdae154d05.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg) 
 ![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
 ## Satışını yaptığımız Domain, İnternet Alanları
