@@ -82,15 +82,15 @@ Our supporters codes.computer, starteknolog.com, starcomputer.space
 Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
                
 ## Our Sites Published
->> [Tracing CodesExe](https://codesexe.com)        
->> [StarTeknolog Standard Js. Style](https://starteknolog.com)
->> [starcomputer.space Fast Pages](https://starcomputer.space)   
->> [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
->> [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
->> yıldızteknoloji.com  ( not published )
->> codes.computer       ( not published )
->> www.teknoloji.space 
->> www.starteknoloji.net
+>> - [Tracing CodesExe](https://codesexe.com)        
+>>  -[StarTeknolog Standard Js. Style](https://starteknolog.com)
+>> - [starcomputer.space Fast Pages](https://starcomputer.space)   
+>> - [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
+>> - [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+>> - yıldızteknoloji.com  ( not published )
+>> - codes.computer       ( not published )
+>> - www.teknoloji.space 
+>> - www.starteknoloji.net
 
 ## Güvenli Alış Veriş (yapım aşamasında)
 - [Ürünlerimiz PayPal Ödeme](https://www.starteknoloji.space/PayPal)
