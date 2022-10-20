@@ -8,7 +8,7 @@
 - > ## 3000$  [www.teknoloji.systems](www.afternic.com/forsale/teknoloji.systems?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)   
 - > ## 5000$ [www.teknoloji.services](www.afternic.com/forsale/teknoloji.services?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
 - > ## 5000$  [www.teknoloji.life](www.afternic.com/forsale/teknoloji.life?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)    
-- > ## www.teknoloji.report     3000$ - > ## www.teknoloji.agency     3000$ - > ## www.teknoloji.team       3000$ - > ## www.teknoloji.media      3000$      
+- > ## www.teknoloji.report     3000$ ## www.teknoloji.agency     3000$ ## www.teknoloji.team       3000$ ## www.teknoloji.media      3000$      
 - > ## www.teknoloji.world      3000$ - > ## www.teknoloji.world      3000$ - > ## www.teknoloji.asia       3000$ - > ## www.teknoloji.email      3000$
 - > ## www.teknoloji.ws         3000$ - > ## www.teknoloji.run        3000$ - > ## www.teknoloji.directory  3000$ - > ## www.teknoloji.software   3000$  
 - > ## www.teknoloji.guru       3000$ - > ## www.teknoloji.live       3000$ - > ## www.teknoloji.city       3000$ - > ## www.teknoloji.games      3000$  
