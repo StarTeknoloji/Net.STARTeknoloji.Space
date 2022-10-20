@@ -1,4 +1,3 @@
-### 
 # @starteknoloji  !!![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 >![indir (23)](https://user-images.githubusercontent.com/93947784/196597904-0d5d30fc-6089-484a-a98a-56bdae154d05.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg) 
 ![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
@@ -57,7 +56,7 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 
-# StarTeknoloji.space
+# *StarTeknoloji.space
 ## Computer İnformation Services     
 > -  Computer and Peripherals
 > -  Network Setup
@@ -76,13 +75,13 @@
 > 8. Warranty and Outsourcing.
 > 9. 10:00 ve 19:00 Study.
 
-# Our @codes.istanbul project !!!
+# *Our @codes.istanbul project !!!
 ### - Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
 ### - Our supporters codes.computer, starteknolog.com, starcomputer.space
-# ANNOUNCEMENT
-### - Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
+# *ANNOUNCEMENT
+### - *Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
                
-## Our Sites Published
+## *Our Sites Published
 >> - [Tracing CodesExe](https://codesexe.com)        
 >> - [StarTeknolog Standard Js. Style](https://starteknolog.com)
 >> - [starcomputer.space Fast Pages](https://starcomputer.space)   
@@ -93,10 +92,10 @@
 >> - www.teknoloji.space 
 >> - www.starteknoloji.net
 
-## *Güvenli Alış Veriş (yapım aşamasında)*
+## *%Güvenli Alış Veriş (yapım aşamasında)
 - [Ürünlerimiz PayPal Ödeme](https://starteknoloji.space/PayPal)
 
-## StarTeknoloji Discord
+## *StarTeknoloji Discord
 >> - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
 >> - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
 
@@ -107,9 +106,9 @@
 
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
-> # This is an Emerging Platform. Please Contribute !!!
+> # *This is an Emerging Platform. Please Contribute !!!
 
-## Support or Contact
+## *Support or Contact
 - [ercetinguler@starteknoloji.space](https://outlook.live.com)    
 - [ercetinguler@codesexe.com](https://outlook.live.com)
 - [author@codes.computer](https://outlook.live.com)
