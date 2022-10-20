@@ -15,7 +15,7 @@
 - > ## www.teknoloji.gold       ## www.teknoloji.fit       ## www.teknoloji.uno        ## www.teknoloji.tel           
 - > ## www.teknoloji.download   ## www.teknoloji.repair    ## www.teknoloji.host       ## www.teknoloji.cloud       
 - > ## www.teknoloji.codes      ## www.teknoloji.computer  ## www.teknoloji.domains    ## www.teknoloji.international     
-- < ## 5000$ ile 3000$ arasında değişir.  `% Alanlarla İlgilenenler Afternic.com ' dan Ulaşabilir.`
+## < 5000$ ile 3000$ arasında değişir.  `% Alanlarla İlgilenenler Afternic.com ' dan Ulaşabilir.`>
    
 >>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
