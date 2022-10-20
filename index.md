@@ -11,9 +11,9 @@
 - > ## www.teknoloji.computer   3000$ 
 - > ## 3000$  [www.teknoloji.Support]( www.afternic.com/forsale/teknoloji.support?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)   
 - > ## 3000$  [www.teknoloji.systems](www.afternic.com/forsale/teknoloji.systems?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)   
-- > ## 3000$ [www.teknoloji.services](www.afternic.com/forsale/teknoloji.services?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
+- > ## 5000$ [www.teknoloji.services](www.afternic.com/forsale/teknoloji.services?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
 - > ## www.teknoloji.download   3000$
-- > ## 3000$  [www.teknoloji.life](www.afternic.com/forsale/teknoloji.life?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)    
+- > ## 5000$  [www.teknoloji.life](www.afternic.com/forsale/teknoloji.life?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)    
 - > ## www.teknoloji.report     3000$
 - > ## www.teknoloji.agency     3000$
 - > ## www.teknoloji.team       3000$
