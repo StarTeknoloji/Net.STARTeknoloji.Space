@@ -51,9 +51,9 @@
 ### Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
 ### Our supporters codes.computer, starteknolog.com, starcomputer.space
 # *ANNOUNCEMENT
-### - Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
+### Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
 # *% Güvenli Alış Veriş (yapım aşamasında)
-## - [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
+## [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
 # *StarTeknoloji Discord
 >> - [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
 >> - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
@@ -66,6 +66,7 @@
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 > ## *This is an Emerging Platform. Please Contribute !!!
+
 ## Our Sites Published
 >> - [Tracing CodesExe](https://codesexe.com)        
 >> - [StarTeknolog Standard Js. Style](https://starteknolog.com)
