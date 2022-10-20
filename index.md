@@ -1,3 +1,4 @@
+### 
 # @starteknoloji  !!![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 >![indir (23)](https://user-images.githubusercontent.com/93947784/196597904-0d5d30fc-6089-484a-a98a-56bdae154d05.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg) 
 ![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
@@ -65,7 +66,7 @@
 > -  Enterprise Application Management and Release Development             
 > -  Information Technology Consulting, Microsoft MCP Continuity
 ### Missions    
-> 1. Computer, Phone, Tablet, Technical Service.
+### > 1. Computer, Phone, Tablet, Technical Service.
 > 2. Operating System Installation, Application Installation, Backup and Recovery.
 > 3. Official Printout, Photocopy, Color output. 
 > 4. Security Camera ve Web Cablo  Connection.
@@ -76,10 +77,10 @@
 > 9. 10:00 ve 19:00 Study.
 
 # Our @codes.istanbul project !!!
-Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
-Our supporters codes.computer, starteknolog.com, starcomputer.space
+### - Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
+### - Our supporters codes.computer, starteknolog.com, starcomputer.space
 # ANNOUNCEMENT
-Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
+### - Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
                
 ## Our Sites Published
 >> - [Tracing CodesExe](https://codesexe.com)        
@@ -92,7 +93,7 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 >> - www.teknoloji.space 
 >> - www.starteknoloji.net
 
-## Güvenli Alış Veriş (yapım aşamasında)
+## *Güvenli Alış Veriş (yapım aşamasında)*
 - [Ürünlerimiz PayPal Ödeme](https://starteknoloji.space/PayPal)
 
 ## StarTeknoloji Discord
@@ -100,8 +101,9 @@ Those who want to contribute to www.codes.istanbul or www.codes.ist can send an 
 >> - [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
 
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
-
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
+`<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>`
+`<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>`
 
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
