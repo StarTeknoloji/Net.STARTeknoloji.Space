@@ -3,7 +3,7 @@
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
 
  | % Güvenli Alış Veriş (yapım aşamasında)
- |  [Ürünler Listesi PayPal Ödeme](www/starteknoloji.space/PayPal)
+ |  [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
  | [www.teknoloji.Support]( www.afternic.com/forsale/teknoloji.support?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
  | [www.teknoloji.mobi ](https://www.afternic.com/forsale/teknoloji.mobi?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
  | [www.teknoloji.Support]( www.afternic.com/forsale/teknoloji.support?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
