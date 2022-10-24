@@ -62,7 +62,7 @@
 
 >> <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 
->> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
+>>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 >>> ## *This is an Emerging Platform. Please Contribute !!!
 
