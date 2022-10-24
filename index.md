@@ -1,23 +1,22 @@
-
 $% ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 ![indir (25)](https://user-images.githubusercontent.com/93947784/197099060-5e8ccc29-52b6-41ce-bdd7-353110b62fd0.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)
  >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 
 # | $*Güvenli Alış Veriş (yapım aşamasında)
- ## |  [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
- | [`www.teknoloji.Support`]( www.afternic.com/forsale/teknoloji.support?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
- | [`www.teknoloji.mobi` ](https://www.afternic.com/forsale/teknoloji.mobi?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
- | [`www.teknoloji.Support`]( www.afternic.com/forsale/teknoloji.support?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
- | [`www.teknoloji.systems`](www.afternic.com/forsale/teknoloji.systems?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
- | [`www.teknoloji.life`](www.afternic.com/forsale/teknoloji.life?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
- | `www.teknoloji.report`                     
- | `www.teknoloji.agency`
- | `www.teknoloji.team`
- | `www.teknoloji.media`  
- | `www.teknoloji.world`                
- | `www.teknoloji.world`
- | `www.teknoloji.asia`
- | `www.teknoloji.email` 
+\ [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
+\ [`www.teknoloji.Support`]( www.afternic.com/forsale/teknoloji.support?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
+\ [`www.teknoloji.mobi` ](https://www.afternic.com/forsale/teknoloji.mobi?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
+\ [`www.teknoloji.Support`]( www.afternic.com/forsale/teknoloji.support?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
+\ [`www.teknoloji.systems`](www.afternic.com/forsale/teknoloji.systems?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS)
+\ [`www.teknoloji.life`](www.afternic.com/forsale/teknoloji.life?traffic_id=GoDaddy_DLS&traffic_type=TDFS&utm_campaign=TDFS_GoDaddy_DLS&utm_medium=sn_affiliate_click&utm_source=TDFS) 
+\ `www.teknoloji.report`                     
+\ `www.teknoloji.agency`
+\ `www.teknoloji.team`
+\ `www.teknoloji.media`  
+\  `www.teknoloji.world`                
+\ `www.teknoloji.world`
+\ `www.teknoloji.asia`
+\ `www.teknoloji.email` 
  | `www.teknoloji.ws`      
  | `www.teknoloji.run`   
  | `www.teknoloji.directory`  
