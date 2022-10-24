@@ -85,6 +85,6 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 ![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
 
 # *Some Applications To Be Used On Our Site For Our Goals
-- **` KaTeX, Tracing, js Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`
+- **` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`
 - **` Message box Comment` 
 - **` Site Security`
