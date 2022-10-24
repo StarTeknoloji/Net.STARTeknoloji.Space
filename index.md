@@ -54,8 +54,8 @@
 >>> # *% Güvenli Alış Veriş (yapım aşamasında)
 > ## [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
 # *StarTeknoloji Discord
->>> ## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
->>> ## [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
+> ## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
+> ## [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
  
 
 >> <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
