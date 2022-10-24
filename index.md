@@ -48,14 +48,14 @@
  
 # *Our @codes.istanbul project 
 > ## Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
->### Our supporters codes.computer, starteknolog.com, starcomputer.space
+> ### Our supporters codes.computer, starteknolog.com, starcomputer.space
 # *ANNOUNCEMENT
-> ## Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
-# *% Güvenli Alış Veriş (yapım aşamasında)
+## Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
+>>> # *% Güvenli Alış Veriş (yapım aşamasında)
 > ## [Ürünler Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
 # *StarTeknoloji Discord
->> ## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
->> ## [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
+>>> ## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)
+>>> ## [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt)
  
 
 >> <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
@@ -78,11 +78,11 @@
 >> ## www.starteknoloji.net
 
 ## *Support or Contact
->> ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
->> ## [ercetinguler@codesexe.com](https://outlook.live.com)
->> ## [author@codes.computer](https://outlook.live.com)
->> ## [user@starcomputer.space](httpd://outlok.live.com)
->> ## `+90 0507 236 39 28`    
->> ## `+90 0288 318 33 40` 
->> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)     
+> ## `+90 0507 236 39 28`    
+> ## `+90 0288 318 33 40` 
+> ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
+> ## [ercetinguler@codesexe.com](https://outlook.live.com)
+> ## [author@codes.computer](https://outlook.live.com)
+> ## [user@starcomputer.space](httpd://outlok.live.com)
+> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)     
 `UA-240549066-1S`
