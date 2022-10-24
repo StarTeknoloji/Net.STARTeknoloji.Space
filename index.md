@@ -32,7 +32,7 @@ $% ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-56
 > ## `Server Setup`
 > ## `Enterprise Application Management and Release Development`              
 > ## `Information Technology Consulting, Microsoft MCP Continuity`
->>## Missions %100 Üretim   
+>>## Missions %100 local  
 > # 1.`Computer, Phone, Tablet, Technical Service.`
 > # 2.`Operating System Installation, Application Installation, Backup and Recovery.`
 > # 3.`Official Printout, Photocopy, Color output.` 
