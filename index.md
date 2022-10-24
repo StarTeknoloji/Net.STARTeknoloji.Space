@@ -5,13 +5,13 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 # (*sTarTeknoloji ! !
 # $*Güvenli Alış Veriş (yapım aşamasında)
 # [Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
-'**|`www.teknoloji.Support`||`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.report`|                   
+|'**|`www.teknoloji.Support`||`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.report`|                   
 |`www.teknoloji.agency`||`www.teknoloji.team`||`www.teknoloji.media`||`www.teknoloji.world`||`www.teknoloji.world`||`www.teknoloji.asia`|
 |`www.teknoloji.email`||`www.teknoloji.ws`||`www.teknoloji.run`||`www.teknoloji.directory`||`www.teknoloji.software`||`www.teknoloji.guru`| 
 |`www.teknoloji.live`||`www.teknoloji.city`||`www.teknoloji.games`||`www.teknoloji.graphics`||`www.teknoloji.desing`||`www.teknoloji.work`|
 |`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.photos`||`www.teknoloji.ink`||`www.teknoloji.gold`|
 |`www.teknoloji.fit`||`www.teknoloji.uno`||`www.teknoloji.tel`||`www.teknoloji.download`||`www.teknoloji.repair`||`www.teknoloji.host`||`www.teknoloji.cloud`|
-|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.international`|**'
+|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.international`|**'|
 # *`5000$ ile 3000$ arasında değişir. % Alanlarla İlgilenenler Afternic.com ' dan Ulaşabilir`
 
 >>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
@@ -35,14 +35,15 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 > ## `Information Technology Consulting, Microsoft MCP Continuity`
 >>## Missions %100 local  
 > # 1.`Computer, Phone, Tablet, Technical Service.`
-> # 2.`Operating System Installation, Application Installation, Backup and Recovery.`
-> # 3.`Official Printout, Photocopy, Color output.` 
-> # 4.`Security Camera ve Web Cablo  Connection.`
-> # 5.`A4 PVC Coating, Spiral Notebook.`
-> # 6.`Second-Hand Trading.`
-> # 7.`We have Motherboard Repair, Eprom process, Soldering.`
-> # 8.`Warranty and Outsourcing.`
-> # 9.`10:00 ve 19:00 Study.`
+> # 2.`Operating System Installation, Application Installation,.`
+> # 3.`Backup and Recovery`
+> # 4.`Official Printout, Photocopy, Color output.` 
+> # 5.`Security Camera ve Web Cablo  Connection.`
+> # 6.`A4 PVC Coating, Spiral Notebook.`
+> # 7.`Second-Hand Trading.`
+> # 8.`We have Motherboard Repair, Eprom process, Soldering.`
+> # 9.`Warranty and Outsourcing.`
+> # 10.`10:00 ve 19:00 Study.`
  
 # *Our @codes.istanbul project 
 > ## Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
