@@ -2,16 +2,16 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 ![indir (25)](https://user-images.githubusercontent.com/93947784/197099060-5e8ccc29-52b6-41ce-bdd7-353110b62fd0.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 
-# (*StarTeknoloji ! !
+# (*sTarTeknoloji ! !
 # $*Güvenli Alış Veriş (yapım aşamasında)
 # [Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
-"|`www.teknoloji.Support`||`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.report`|                   
+"**|`www.teknoloji.Support`||`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.report`|                   
 |`www.teknoloji.agency`||`www.teknoloji.team`||`www.teknoloji.media`||`www.teknoloji.world`||`www.teknoloji.world`||`www.teknoloji.asia`|
 |`www.teknoloji.email`||`www.teknoloji.ws`||`www.teknoloji.run`||`www.teknoloji.directory`||`www.teknoloji.software`||`www.teknoloji.guru`| 
 |`www.teknoloji.live`||`www.teknoloji.city`||`www.teknoloji.games`||`www.teknoloji.graphics`||`www.teknoloji.desing`||`www.teknoloji.work`|
 |`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.photos`||`www.teknoloji.ink`||`www.teknoloji.gold`|
 |`www.teknoloji.fit`||`www.teknoloji.uno`||`www.teknoloji.tel`||`www.teknoloji.download`||`www.teknoloji.repair`||`www.teknoloji.host`||`www.teknoloji.cloud`|
-|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.international`|"
+|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.international`|**"
 # *`5000$ ile 3000$ arasında değişir. % Alanlarla İlgilenenler Afternic.com ' dan Ulaşabilir`
 
 >>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
