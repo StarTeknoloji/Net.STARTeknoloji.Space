@@ -83,3 +83,8 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 > ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)     
 `UA-240549066-1S`
 ![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
+
+# *Some Applications To Be Used On Our Site For Our Goals
+- **` KaTeX, Tracing, js Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`
+- **` Message box Comment` 
+- **` Site Security`
