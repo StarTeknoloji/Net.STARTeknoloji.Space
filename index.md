@@ -70,7 +70,7 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 >> ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
 >> ## yıldızteknoloji.com  ( not published )
 >> ## codes.computer       ( not published )
->> ## www.teknoloji.space 
+>> ## http://teknoloji.space 
 >> ## www.starteknoloji.net
 
 ## *Support or Contact
