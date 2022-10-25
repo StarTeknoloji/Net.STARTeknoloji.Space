@@ -1,4 +1,4 @@
-# *(* sTarTeknoloji !!
+# *(* sTarTeknoloji !! quiet security
 $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 ![indir (25)](https://user-images.githubusercontent.com/93947784/197099060-5e8ccc29-52b6-41ce-bdd7-353110b62fd0.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
@@ -81,7 +81,7 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 > ## [ercetinguler@codesexe.com](https://outlook.live.com)
 > ## [author@codes.computer](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
-> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)     
+> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
 `UA-240549066-1S`
 ![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
 
