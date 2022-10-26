@@ -58,7 +58,7 @@
 <input type="image" src="https://www.sandbox.paypal.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
+<script src="https://www.paypal.com/sdk/js?client-id=AYeIQzQn3fdcGPZbHquJibk373lKZlRmqnfAP1HjAYh1na7Agt-SQmcfv-_1ahWu1Qvc00UNsigi6kUT&components=YOUR_COMPONENTS"></script>
 <!DOCTYPE html>
 <html>
   <head>
