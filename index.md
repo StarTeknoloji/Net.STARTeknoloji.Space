@@ -93,6 +93,4 @@ time, all newlines will be replaced with a single space.
 Blank lines, like above, are converted to a newline character.
 
     'More-indented' lines keep their newlines, too -
-    this text will appear over two lines.
-
-#* [About](https://starteknoloji.space/about)  
+    this text will appear over two lines. #* [About](https://starteknoloji.space/about)  
