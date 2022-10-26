@@ -19,9 +19,9 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 
-# *StarTeknoloji.space
+:> *# *StarTeknoloji.space
 ## Computer İnformation Services     
-: > ## `Computer and Peripherals`
+> ## `Computer and Peripherals`
 > ## `Network Setup`
 > ## `Website Setup` 
 > ## `Server Setup`
@@ -41,7 +41,7 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
  
 # *Our @codes.istanbul project 
 > ## Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
-: > ### Our supporters codes.computer, starteknolog.com, starcomputer.space
+> ### Our supporters codes.computer, starteknolog.com, starcomputer.space
 # *ANNOUNCEMENT
 ## Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
 >>> # *Discord
