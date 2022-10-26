@@ -81,5 +81,17 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 # *Some Applications To Be Used On Our Site For Our Goals
 - **` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`
 - **` Message box Comment` 
-- **` Site Security`
+- **` Site Security` 
+The literal continues until de-dented, and the leading indentation is
+stripped.
+
+    Any lines that are 'more-indented' keep the rest of their indentation -
+    these lines will be indented by 4 spaces. folded_style: >
+This entire block of text will be the value of 'folded_style', but this
+time, all newlines will be replaced with a single space.
+
+Blank lines, like above, are converted to a newline character.
+
+    'More-indented' lines keep their newlines, too -
+    this text will appear over two lines.
 #*[About](https://starteknoloji.space/about)  
