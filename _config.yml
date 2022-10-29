@@ -1,8 +1,12 @@
 theme: jekyll-theme-architect 
-title: (* StAR tEKNOLOJİ
-description: Hoşgeldiniz* ... *Google Arama Motoru, Google Haritalarda ve GitHub'ta Bulabilirsiniz.İhtiyacınız Oluduğunda Hemen Ulaşabilirsiniz. Ayırdığınız Vakit İçin Teşekkürler.
-project: Starsuff
-indescription: Star Technology Area 
-app: StarTeknoloji AreCods
 yazar:  Erçetin Güler
 izleme:   UA-240549066-1
+title: (* STAR Teknoloji 
+email: ercetinguler@starteknoloji.space
+description: >- # this means to ignore newlines until "baseurl:https://starteknoloji.space"
+  Hoşgeldiniz *Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında 
+  Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.
+baseurl: "https://starteknoloji.space/blog" # the subpath of your site, e.g. /blog
+url: "https://starteknoloji.space/" # the base hostname & protocol for your site, e.g. https://wwww.starteknoloji.space
+twitter_username: guler_ercetin
+github_username: StarTeknoloji
