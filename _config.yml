@@ -1,9 +1,7 @@
 theme: jekyll-theme-architect 
-yazar:  Erçetin Güler
 title: (* STAR Teknoloji 
 description: Hoşgeldiniz *Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.
-baseurl: "https://starteknoloji.space/index" # the subpath of your site, e.g. /blog
-url: "https://starteknoloji.space/" # the base hostname & protocol for your site, e.g. https://wwww.starteknoloji.space
 twitter_username: guler_ercetin
 github_username: StarTeknoloji
 email: ercetinguler@starteknoloji.space
+yazar:  Erçetin Güler
