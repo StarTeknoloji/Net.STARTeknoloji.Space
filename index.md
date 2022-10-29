@@ -74,15 +74,19 @@
 > ## [ercetinguler@codesexe.com](https://outlook.live.com)
 > ## [author@codes.computer](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
-> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
+> ## [About](https://starteknoloji.space/about)  
+> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)
+> Erçetin Güler, Aynur Zorlu     
 `UA-240549066-1S`
-![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
 
 # *Some Applications To Be Used On Our Site For Our Goals
 - **` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`
 - **` Message box Comment` 
 - **` Site Security` 
-The literal continues until de-dented, and the leading indentation is
+
+
+    'More-indented' lines keep their newlines, too -
+    this text will appear over two lines.The literal continues until de-dented, and the leading indentation is
 stripped.
 
     Any lines that are 'more-indented' keep the rest of their indentation -
@@ -91,6 +95,3 @@ This entire block of text will be the value of 'folded_style', but this
 time, all newlines will be replaced with a single space.
 
 Blank lines, like above, are converted to a newline character.
-
-    'More-indented' lines keep their newlines, too -
-    this text will appear over two lines. #* [About](https://starteknoloji.space/about)  
