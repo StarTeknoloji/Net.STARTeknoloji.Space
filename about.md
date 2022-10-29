@@ -1,5 +1,7 @@
->![krxd](https://user-images.githubusercontent.com/93947784/198012506-80a6f1bd-c2ff-47a3-936a-71a910607d54.png)
+>![unnamed (2)](https://user-images.githubusercontent.com/93947784/198833909-539730b5-266e-4122-a048-56e625b5528a.png)
+![krxd](https://user-images.githubusercontent.com/93947784/198012506-80a6f1bd-c2ff-47a3-936a-71a910607d54.png)
 ![1666597976341](https://user-images.githubusercontent.com/93947784/198012516-1d9293b6-d932-4525-af77-dfebfd30a918.png)
+
 # Gifts
 
 |'**|`www.teknoloji.Support`||`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.report`|                   
