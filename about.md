@@ -10,7 +10,7 @@
 ![claim free G2 profile](https://user-images.githubusercontent.com/93947784/199843177-1e8432b1-94d4-4ff9-b71d-02c128ead951.jpeg)
 ![G2 Discussions](https://user-images.githubusercontent.com/93947784/199843178-e7f8b97a-388e-4a6d-925b-9b45539cfa8d.jpeg)
 ![g2-chili-piper-integration-blog-featured-image@2x](https://user-images.githubusercontent.com/93947784/199843179-f0f9542f-f95b-46aa-8005-5e1056e8c4e8.jpeg)
-![G2CM-FI308-Learn-Article-Images--- Content-Creation _Infographic_2_V1a](https://user-images.githubusercontent.com/93947784/199843181-745a5e03-c20f-4b02-a7fa-77b1119b7375.png)
+![G2CM-FI308-Learn-Article-Images--- Content-Creation _Infographic_2_V1a (2)](https://user-images.githubusercontent.com/93947784/199843834-21515aac-4504-4c69-b76c-ac84ea41b361.jpg)
 
 # *Mevcut Domain Alanlarımız
 |`www.teknoloji.Support`||`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`|                
