@@ -25,7 +25,8 @@
 |`www.teknoloji.pw`||`www.teknoloji.ink`| 
 >- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer
 mümkündür.
- # PROJE PLAN 
+# *PROJE PLAN; COLLABORATION system 
+**(No action taken)
 >>>![blob (2)](https://user-images.githubusercontent.com/93947784/199851838-f73104d8-c2b0-4ce1-9e18-c5f7d4c1674c.png)
 ![blob (7)](https://user-images.githubusercontent.com/93947784/199851844-85c2edbf-a27d-406a-9fc9-1fd304ae5c12.png)
 ![blob-1a5d189](https://user-images.githubusercontent.com/93947784/199851848-eeae71c1-7b9c-491b-8fb6-e855962960db.png)
@@ -39,7 +40,7 @@ mümkündür.
 ![blob (1)](https://user-images.githubusercontent.com/93947784/199851826-64107946-e7e1-4c46-867e-8ddb7ee6e6e0.png)
 ![blob](https://user-images.githubusercontent.com/93947784/199851828-cad17384-7a22-441e-9ee9-cfdeb2d3e960.png)
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/199851830-979ecfcb-0cf3-4838-a46c-90420d62f674.png)
-![13601876 (1)](https://user-images.githubusercontent.com/93947784/199851831-28cfd952-c971-47ec-bc79-5f6e1a0820eb.png)
+![sevgi](https://user-images.githubusercontent.com/93947784/199852279-1166edc5-f252-400d-9bc4-258e407fce2a.png)
 ![13722285 (2)](https://user-images.githubusercontent.com/93947784/199851836-67f09da7-cd13-4afc-bab2-78d8a8a0ea47.png)
 
 
