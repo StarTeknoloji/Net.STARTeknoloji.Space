@@ -27,7 +27,8 @@
 mümkündür.
 # *PROJE PLAN; COLLABORATION system 
 **(No action taken)
->>>![blob (2)](https://user-images.githubusercontent.com/93947784/199851838-f73104d8-c2b0-4ce1-9e18-c5f7d4c1674c.png)
+>>>![blob (3)](https://user-images.githubusercontent.com/93947784/199853308-fdd2f1c4-47da-4205-b54d-9bc906261146.png)
+![blob (2)](https://user-images.githubusercontent.com/93947784/199851838-f73104d8-c2b0-4ce1-9e18-c5f7d4c1674c.png)
 ![blob (7)](https://user-images.githubusercontent.com/93947784/199851844-85c2edbf-a27d-406a-9fc9-1fd304ae5c12.png)
 ![blob-1a5d189](https://user-images.githubusercontent.com/93947784/199851848-eeae71c1-7b9c-491b-8fb6-e855962960db.png)
 ![blob-54f5fec](https://user-images.githubusercontent.com/93947784/199851849-d474cbf2-cb4a-4273-aeb2-dbf30942bf00.png)
