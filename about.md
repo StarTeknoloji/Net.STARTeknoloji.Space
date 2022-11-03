@@ -23,7 +23,7 @@
 |`www.teknoloji.buzz`||`www.teknoloji.cloud`||`www.teknoloji.today`||`www.teknoloji.gold`||`www.teknoloji.report`|
 |`www.teknoloji.guru`||`www.teknoloji.asia`||`www.teknoloji.host`||`www.teknoloji.work`||`www.teknoloji.casa`|
 |`www.teknoloji.pw`||`www.teknoloji.ink`| 
-> -*Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer
+>- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer
 mümkündür.
 
 
