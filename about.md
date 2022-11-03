@@ -25,5 +25,21 @@
 |`www.teknoloji.pw`||`www.teknoloji.ink`| 
 >- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer
 mümkündür.
+ # PROJE PLAN 
+>>>![blob (2)](https://user-images.githubusercontent.com/93947784/199851838-f73104d8-c2b0-4ce1-9e18-c5f7d4c1674c.png)
+![blob (7)](https://user-images.githubusercontent.com/93947784/199851844-85c2edbf-a27d-406a-9fc9-1fd304ae5c12.png)
+![blob-1a5d189](https://user-images.githubusercontent.com/93947784/199851848-eeae71c1-7b9c-491b-8fb6-e855962960db.png)
+![blob-54f5fec](https://user-images.githubusercontent.com/93947784/199851849-d474cbf2-cb4a-4273-aeb2-dbf30942bf00.png)
+![blob-69e4cd3](https://user-images.githubusercontent.com/93947784/199851850-d4b0240a-57b3-45be-86e9-257999ac3e95.png)
+![blob-78a257f](https://user-images.githubusercontent.com/93947784/199851854-ce47d23c-9a17-4f90-9e18-6f6721ba76d3.png)
+![blob-606cae0](https://user-images.githubusercontent.com/93947784/199851858-15a55902-40d8-4f4a-b850-ae9075ae61f4.png)
+![blob-5544083](https://user-images.githubusercontent.com/93947784/199851813-d0e5fdc7-1058-410f-b61d-92475de6b05f.png)
+![blob-d0bb8fc](https://user-images.githubusercontent.com/93947784/199851819-3cc887ad-985f-4aa3-b3ca-b10892872efd.png)
+![blob-d49b4df](https://user-images.githubusercontent.com/93947784/199851821-f5220c07-202f-4166-85b4-cfd2d462db77.png)
+![blob (1)](https://user-images.githubusercontent.com/93947784/199851826-64107946-e7e1-4c46-867e-8ddb7ee6e6e0.png)
+![blob](https://user-images.githubusercontent.com/93947784/199851828-cad17384-7a22-441e-9ee9-cfdeb2d3e960.png)
+![13402223_transparent](https://user-images.githubusercontent.com/93947784/199851830-979ecfcb-0cf3-4838-a46c-90420d62f674.png)
+![13601876 (1)](https://user-images.githubusercontent.com/93947784/199851831-28cfd952-c971-47ec-bc79-5f6e1a0820eb.png)
+![13722285 (2)](https://user-images.githubusercontent.com/93947784/199851836-67f09da7-cd13-4afc-bab2-78d8a8a0ea47.png)
 
 
