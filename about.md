@@ -22,7 +22,7 @@
 |`www.teknoloji.guru`||`www.teknoloji.asia`||`www.teknoloji.host`||`www.teknoloji.work`||`www.teknoloji.casa`|
 |`www.teknoloji.pw`||`www.teknoloji.ink`||`www.teknoloji.buzz`||`www.teknoloji.today`||`www.teknoloji.photos`|
 |`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.international`|
-|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.skin`|
+|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.skin`||`www.teknoloji.best`|
 >- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.
 # *PROJE PLAN; COLLABORATION system 
 **(No action taken)
