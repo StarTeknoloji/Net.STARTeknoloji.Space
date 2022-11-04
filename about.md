@@ -43,5 +43,6 @@ mümkündür.
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/199851830-979ecfcb-0cf3-4838-a46c-90420d62f674.png)
 ![sevgi](https://user-images.githubusercontent.com/93947784/199852279-1166edc5-f252-400d-9bc4-258e407fce2a.png)
 ![13722285 (2)](https://user-images.githubusercontent.com/93947784/199851836-67f09da7-cd13-4afc-bab2-78d8a8a0ea47.png)
+![blob (4)](https://user-images.githubusercontent.com/93947784/199883259-233dd822-ffa3-46c0-bdbe-5da4abcfbcc5.png)
 
 
