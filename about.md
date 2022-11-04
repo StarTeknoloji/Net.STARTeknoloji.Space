@@ -17,14 +17,13 @@
 |`www.teknoloji.agency`||`www.teknoloji.team`||`www.teknoloji.media`||`www.teknoloji.world`||`www.teknoloji.world`|
 |`www.teknoloji.email`||`www.teknoloji.ws`||`www.teknoloji.run`||`www.teknoloji.directory`||`www.teknoloji.software`| 
 |`www.teknoloji.live`||`www.teknoloji.city`||`www.teknoloji.games`||`www.teknoloji.graphics`||`www.teknoloji.desing`|
-|`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.photos`|
 |`www.teknoloji.fit`||`www.teknoloji.uno`||`www.teknoloji.tel`||`www.teknoloji.download`||`www.teknoloji.repair`|
-|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.international`|
 |`www.teknoloji.buzz`||`www.teknoloji.cloud`||`www.teknoloji.today`||`www.teknoloji.gold`||`www.teknoloji.report`|
 |`www.teknoloji.guru`||`www.teknoloji.asia`||`www.teknoloji.host`||`www.teknoloji.work`||`www.teknoloji.casa`|
-|`www.teknoloji.pw`||`www.teknoloji.ink`| 
->- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer
-mümkündür.
+|`www.teknoloji.pw`||`www.teknoloji.ink`||`www.teknoloji.buzz`||`www.teknoloji.today`||`www.teknoloji.photos`|
+|`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.international`|
+|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`|
+>- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.
 # *PROJE PLAN; COLLABORATION system 
 **(No action taken)
 >>>![blob (3)](https://user-images.githubusercontent.com/93947784/199853308-fdd2f1c4-47da-4205-b54d-9bc906261146.png)
