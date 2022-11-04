@@ -39,7 +39,7 @@ mümkündür.
 ![blob-d0bb8fc](https://user-images.githubusercontent.com/93947784/199851819-3cc887ad-985f-4aa3-b3ca-b10892872efd.png)
 ![blob-d49b4df](https://user-images.githubusercontent.com/93947784/199851821-f5220c07-202f-4166-85b4-cfd2d462db77.png)
 ![blob-4c992f1 (1)](https://user-images.githubusercontent.com/93947784/199885815-8969ca48-ee18-41e8-ab57-9ba335cfd81a.png)
-![blob](https://user-images.githubusercontent.com/93947784/199851828-cad17384-7a22-441e-9ee9-cfdeb2d3e960.png)
+![blob-39b6553 (1)](https://user-images.githubusercontent.com/93947784/199886992-a7099d0c-bb14-4d2b-b5e1-df1e5f50af71.png)
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/199851830-979ecfcb-0cf3-4838-a46c-90420d62f674.png)
 ![sevgi](https://user-images.githubusercontent.com/93947784/199852279-1166edc5-f252-400d-9bc4-258e407fce2a.png)
 ![13722285 (2)](https://user-images.githubusercontent.com/93947784/199851836-67f09da7-cd13-4afc-bab2-78d8a8a0ea47.png)
