@@ -74,7 +74,7 @@
 > ## [ercetinguler@codesexe.com](https://outlook.live.com)
 > ## [author@codes.computer](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
-> ## [About](https://starteknoloji.space/about)  
+> ## [About](https://starteknoloji.space/about.md)  
 > ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)
 > Erçetin Güler, Aynur Zorlu     
 `UA-240549066-1S`
