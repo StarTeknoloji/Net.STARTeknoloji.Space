@@ -1,5 +1,6 @@
 # *(* *sTarTeknoloji !! 
-## *quiet security
+## net.starteknoloji.space
+### **quiet security
 ![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 
@@ -59,13 +60,12 @@
 ## Our Sites Published
 >> ## [Tracing CodesExe](https://codesexe.com)        
 >> ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
->> ## [starcomputer.space Fast Pages](https://starcomputer.space)   
+>> ## [starcomputer.space Jekyll](https://starcomputer.space)   
 >> ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
 >> ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
->> ## yıldızteknoloji.com  ( not published )
 >> ## codes.computer       ( not published )
->> ## http://teknoloji.space 
->> ## www.starteknoloji.net
+
+
 
 > ## *Support or Contact
 > ## `+90 0507 236 39 28`    
