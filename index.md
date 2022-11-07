@@ -1,4 +1,4 @@
-# *(* *sTarTeknoloji !! *$%*
+# *(* *STAR Teknoloji !! **
 ## net.starteknoloji.space
 ### *.starteknoloji.net
 #### **quiet security yıldız teknolojicisi
