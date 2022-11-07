@@ -7,7 +7,7 @@
 
 
 ## $*Güvenli Alış Veriş (yapım aşamasında)
-# [Ürün Listesi PayPal Ödeme](https://net.starteknoloji.space/PayPal)
+## [Ürün Listesi PayPal Ödeme](https://net.starteknoloji.space/PayPal)
 
 
 >>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
