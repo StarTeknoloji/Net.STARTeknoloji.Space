@@ -68,7 +68,7 @@
 
 
 
- ## *Support or Contact
+## *Support or Contact
 > ## `+90 0507 236 39 28`    
 > ## `+90 0288 318 33 40` 
 > ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
