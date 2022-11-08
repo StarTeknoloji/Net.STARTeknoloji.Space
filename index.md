@@ -82,9 +82,9 @@
 `UA-240549066-1S`
 
 ### *Some Applications To Be Used On Our Site For Our Goals
-- **` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`
-- **` Message box Comment` 
-- **` Site Security` 
+- *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
+- *` Message box Comment`*
+- *` Site Security`* 
 
 The literal continues until de-dented, and the leading indentation is
 stripped.
