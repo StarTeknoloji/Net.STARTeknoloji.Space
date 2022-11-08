@@ -44,7 +44,7 @@
 > # 10.`10:00 ve 19:00 Study.`**
  
 # *Our project 
-> ## Project STARSUFF private STARSHADE public 
+> ## Project STARSUFF private STARSHADE public
 # ANNOUNCEMENT
 ## Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
 ### Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com*
@@ -60,17 +60,13 @@
 
 >>> ### *This is an Emerging Platform. Please Contribute* !!!
 
-## Our Sites Published
+## **Site
 >> ## [Tracing CodesExe](https://codesexe.com)        
 >> ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
 >> ## [starcomputer.space Jekyll](https://starcomputer.space)   
->> ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
->> ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
->> ## codes.computer       ( not published )
-
-
-
-## *Support or Contact
+>> ## codes.computer**
+      
+## **Support Contact
 > ## `+90 0507 236 39 28`    
 > ## `+90 0288 318 33 40` 
 > ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
@@ -78,7 +74,7 @@
 > ## [author@codes.computer](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
 > ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)
->- [Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin), [Aynur Zorlu](http://net.starteknoloji.space/hakkında)     
+>- [Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin), [Aynur Zorlu](http://net.starteknoloji.space/hakkında)**   
 `UA-240549066-1S`
 
 ### *Some Applications To Be Used On Our Site For Our Goals
