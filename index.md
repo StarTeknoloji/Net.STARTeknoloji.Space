@@ -23,7 +23,7 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 
-# *StarTeknoloji.space
+# **StarTeknolojiSpace
 ## Computer İnformation Services     
 > ## `Computer and Peripherals`
 > ## `Network Setup`
@@ -41,7 +41,7 @@
 > # 7.`Second-Hand Trading.`
 > # 8.`We have Motherboard Repair, Eprom process, Soldering.`
 > # 9.`Warranty and Outsourcing.`
-> # 10.`10:00 ve 19:00 Study.`
+> # 10.`10:00 ve 19:00 Study.`**
  
 # *Our @codes.istanbul project 
 > ## Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
