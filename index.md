@@ -1,4 +1,4 @@
-# *[**]*
+# *[***]*
 # [*(* *STAR Teknoloji !! *%*](https://net.starteknoloji.space/about)
 ## net.starteknoloji.space
 ### *.starteknoloji.net
