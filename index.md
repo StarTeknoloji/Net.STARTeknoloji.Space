@@ -58,9 +58,9 @@
 >>> ### *This is an Emerging Platform. Please Contribute* !!!
 
 ## *Site
->> ## [Tracing www.CodesExe.com](https://codesexe.com)        
+>> ## [www.CodesExe.com Tracing](https://codesexe.com)        
 >> ## [www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)
->> ## [starcomputer.space Jekyll](https://starcomputer.space)   
+>> ## [https://starcomputer.space Jekyll](https://starcomputer.space)   
 >> ## [www.codes.computer KaTeX](https://www.codes.computer)
       
 ## *Support Contact
