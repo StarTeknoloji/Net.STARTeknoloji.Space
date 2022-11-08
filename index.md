@@ -7,7 +7,7 @@
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 
 
-# **$*%Güvenli Alış Veriş(Derleniyor)**![Fgddj_yX0AA7Grr](https://user-images.githubusercontent.com/93947784/200449299-1f315ddc-e7fa-4b1c-91d7-9f51f602de29.jpeg)
+# **Güvenli Alış Veriş(Derleniyor)**![Fgddj_yX0AA7Grr](https://user-images.githubusercontent.com/93947784/200449299-1f315ddc-e7fa-4b1c-91d7-9f51f602de29.jpeg)
 
 ## [Ürün Listesi PayPal Ödeme](https://net.starteknoloji.space/PayPal)
 
