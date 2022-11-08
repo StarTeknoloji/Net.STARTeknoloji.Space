@@ -7,7 +7,7 @@
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 
 
-## $*Güvenli Alış Veriş (yapım aşamasında)
+## *$*%Güvenli Alış Veriş (yapım aşamasında)
 ## [Ürün Listesi PayPal Ödeme](https://net.starteknoloji.space/PayPal)
 
 
@@ -44,7 +44,7 @@
  
 # *Our @codes.istanbul project 
 > ## Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
-### Our supporters codes.computer, starteknolog.com, starcomputer.space
+### Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com
 # *ANNOUNCEMENT
 ## Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
 >>> # *Discord
