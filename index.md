@@ -58,8 +58,8 @@
 >>> ### *This is an Emerging Platform. Please Contribute* !!!
 
 ## *Site
->> ## [Tracing CodesExe](https://codesexe.com)        
->> ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
+>> ## [Tracing www.CodesExe.com](https://codesexe.com)        
+>> ## [www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)
 >> ## [starcomputer.space Jekyll](https://starcomputer.space)   
 >> ## codes.computer*
       
