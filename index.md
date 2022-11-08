@@ -61,7 +61,7 @@
 >> ## [Tracing www.CodesExe.com](https://codesexe.com)        
 >> ## [www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)
 >> ## [starcomputer.space Jekyll](https://starcomputer.space)   
->> ## codes.computer*
+>> ## [www.codes.computer KaTeX](https://www.codes.computer)
       
 ## *Support Contact
 > ## `+90 0507 236 39 28`    
