@@ -7,7 +7,7 @@
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 
 
-## *$*%Güvenli Alış Veriş (yapım aşamasında)
+## **$*%Güvenli Alış Veriş(yapım aşamasında)**
 ## [Ürün Listesi PayPal Ödeme](https://net.starteknoloji.space/PayPal)
 
 
