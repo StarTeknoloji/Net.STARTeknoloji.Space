@@ -63,9 +63,10 @@
 >> ## [https://starcomputer.space Jekyll](https://starcomputer.space)   
 >> ## [www.codes.computer KaTeX](https://www.codes.computer)
 
+LÜTFEN KATKIDA BUNULUNUN
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
                                       
-                                       LÜTFEN KATKIDA BUNULUNUN
+                                      
 ## *Support Contact
 > ## `+90 0507 236 39 28`    
 > ## `+90 0288 318 33 40` 
