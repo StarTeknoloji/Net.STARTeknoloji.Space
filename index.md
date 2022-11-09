@@ -55,7 +55,7 @@
 
 >>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
->>> ### *This is an Emerging Platform. Please Contribute* !!!
+>>> #### *This is an Emerging Platform. Please Contribute* !!!
 
 ## *Site
 >> ## [www.CodesExe.com Tracing](https://codesexe.com)        
@@ -63,7 +63,7 @@
 >> ## [https://starcomputer.space Jekyll](https://starcomputer.space)   
 >> ## [www.codes.computer KaTeX](https://www.codes.computer)
 
-- **LÜTFEN KATKIDA BUNULUNUN
+- **PLEASE CONTRIBUTE
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
                                       
                                       
