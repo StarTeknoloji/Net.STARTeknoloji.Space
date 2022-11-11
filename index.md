@@ -85,7 +85,7 @@
 - *` Message box Comment`*
 - *` Site Security`* 
 
--   The literal continues until de-dented, and the leading indentation is
+The literal continues until de-dented, and the leading indentation is
 stripped.
 
     Any lines that are 'more-indented' keep the rest of their indentation -
