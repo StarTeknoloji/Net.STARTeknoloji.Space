@@ -66,10 +66,10 @@
 - *Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
  
-- *# [Kuyruklu yıldız](https://net.starteknoloji.space/comet)
-- *# [Reklam](https://net.starteknoloji.space/inbox)
-- *# [404.](https://net.starteknoloji.space/inboks)
-- *# [Jekyll](https://net.starteknoloji.space/blog) 
+-  [Kuyruklu yıldız](https://net.starteknoloji.space/comet)
+-  [Reklam](https://net.starteknoloji.space/inbox)
+-  [404.](https://net.starteknoloji.space/inboks)
+-  [Jekyll](https://net.starteknoloji.space/blog) 
 
 ## *Support Contact
 > ## `+90 0507 236 39 28`    
