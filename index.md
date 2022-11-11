@@ -40,11 +40,11 @@
 > # 9.`Warranty and Outsourcing.`
 > # 10.`10:00 ve 19:00 Study.`**
      
-# *Our project 
-> ## Project STARSUFF private STARSHADE public
+# *`Our project` 
+> ## `Project STARSUFF private STARSHADE public`
 # `ANNOUNCEMENT`
-## `Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.`
-### `Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com*`
+# `Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.`
+# `Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com*`
 >>> # *Discord*
 ## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d) 
 ## [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt) 
