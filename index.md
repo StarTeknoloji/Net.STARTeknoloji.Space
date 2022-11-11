@@ -1,5 +1,5 @@
 # *[*`*`](https://net.starteknoloji.space/comet)*
-# [*(* *STAR Teknoloji !! *%*](https://net.starteknoloji.space/about)
+# [*(* *STAR Teknoloji !! *%*](https://net.starteknoloji.space/about.md)
 ## net.starteknoloji.space
 ## *.starteknoloji.net
 # **quiet security *$* yıldız teknolojicisi** 
