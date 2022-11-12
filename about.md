@@ -15,7 +15,7 @@
 ![g2-chili-piper-integration-blog-featured-image@2x](https://user-images.githubusercontent.com/93947784/199843179-f0f9542f-f95b-46aa-8005-5e1056e8c4e8.jpeg)
 
 
-# **Mevcut Domain Alanlarımız
+# *Mevcut Domain Alanlarımız
 *|`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.monster`|                
 *|`www.teknoloji.agency`||`www.teknoloji.team`||`www.teknoloji.media`||`www.teknoloji.world`||`www.teknoloji.world`|
 *|`www.teknoloji.email`||`www.teknoloji.ws`||`www.teknoloji.run`||`www.teknoloji.directory`||`www.teknoloji.software`| 
