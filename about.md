@@ -15,18 +15,18 @@
 ![g2-chili-piper-integration-blog-featured-image@2x](https://user-images.githubusercontent.com/93947784/199843179-f0f9542f-f95b-46aa-8005-5e1056e8c4e8.jpeg)
 
 
-# *Mevcut Domain Alanlarımız
-|`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.monster`|                
-|`www.teknoloji.agency`||`www.teknoloji.team`||`www.teknoloji.media`||`www.teknoloji.world`||`www.teknoloji.world`|
-|`www.teknoloji.email`||`www.teknoloji.ws`||`www.teknoloji.run`||`www.teknoloji.directory`||`www.teknoloji.software`| 
-|`www.teknoloji.live`||`www.teknoloji.city`||`www.teknoloji.games`||`www.teknoloji.graphics`||`www.teknoloji.desing`|
-|`www.teknoloji.fit`||`www.teknoloji.uno`||`www.teknoloji.tel`||`www.teknoloji.download`||`www.teknoloji.repair`|
-|`www.teknoloji.buzz`||`www.teknoloji.cloud`||`www.teknoloji.today`||`www.teknoloji.gold`||`www.teknoloji.report`|
-|`www.teknoloji.guru`||`www.teknoloji.asia`||`www.teknoloji.host`||`www.teknoloji.work`||`www.teknoloji.casa`|
-|`www.teknoloji.pw`||`www.teknoloji.ink`||`www.teknoloji.buzz`||`www.teknoloji.today`||`www.teknoloji.photos`|
-|`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.international`|
-|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.skin`||`www.teknoloji.best`|
-|`www.teknoloji.homes`||`www.teknoloji.quest`|
+# **Mevcut Domain Alanlarımız
+*|`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.monster`|                
+*|`www.teknoloji.agency`||`www.teknoloji.team`||`www.teknoloji.media`||`www.teknoloji.world`||`www.teknoloji.world`|
+*|`www.teknoloji.email`||`www.teknoloji.ws`||`www.teknoloji.run`||`www.teknoloji.directory`||`www.teknoloji.software`| 
+*|`www.teknoloji.live`||`www.teknoloji.city`||`www.teknoloji.games`||`www.teknoloji.graphics`||`www.teknoloji.desing`|
+*|`www.teknoloji.fit`||`www.teknoloji.uno`||`www.teknoloji.tel`||`www.teknoloji.download`||`www.teknoloji.repair`|
+*|`www.teknoloji.buzz`||`www.teknoloji.cloud`||`www.teknoloji.today`||`www.teknoloji.gold`||`www.teknoloji.report`|
+*|`www.teknoloji.guru`||`www.teknoloji.asia`||`www.teknoloji.host`||`www.teknoloji.work`||`www.teknoloji.casa`|
+*|`www.teknoloji.pw`||`www.teknoloji.ink`||`www.teknoloji.buzz`||`www.teknoloji.today`||`www.teknoloji.photos`|
+*|`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.international`|
+*|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.skin`||`www.teknoloji.best`|
+/*|`www.teknoloji.homes`||`www.teknoloji.quest`|
 >- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.
 # *PROJE PLAN; COLLABORATION system 
 **(No action taken)
