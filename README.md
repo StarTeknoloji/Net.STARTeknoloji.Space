@@ -4,8 +4,8 @@
 # *@starteknoloji.net*
 # *@teknoloji.space*
 # *@teknoloji.email*
-- *Hoşgeldin !!!*
-! [indir (15)] (https://user-images.githubusercontent.com/93947784/196596827-97ab0514-ddf0-457e-8dcf-abe69f18f7d8.png) ! [indir (11)] (https://user-images.githubusercontent.com/93947784/197026144-bd604682-f963-4f97-b60c-4d438bb8b110.png)
+
+# - *Hoşgeldin !!!*
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
@@ -23,8 +23,8 @@
 ## *Sign, Logo, Symbol     
 ## *Personal applications
 ## *EXAMPLES
-- *Optional: Debate Lounge
-1 workflow is as follows. The discussion and discussion of the works left by the person in his application is transferred to other discussion platforms and his membership is added, and as these memberships and platforms increase, the person's star formation means that they appear on other platforms.
+# - *Optional: Debate Lounge
+**1 workflow is as follows. The discussion and discussion of the works left by the person in his application is transferred to other discussion platforms and his membership is added, and as these memberships and platforms increase, the person's star formation means that they appear on other platforms.
 Optional: Pull requests
 The person's desire to share his/her knowledge in Professional Subjects and branches.
 Download as a single file to its Members on the web page.
