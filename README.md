@@ -38,5 +38,6 @@ This is a file with a top-level HTML heading
 [Dİscord Server](https://discord.gg/J2vaXFvC8d)
 ![5077109](https://user-images.githubusercontent.com/93947784/189415310-005a0ddc-fe72-425f-a3a5-a042aded438d.png)
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53524f305a776d496d6963302f67697068792e676966](https://user-images.githubusercontent.com/93947784/190603709-99cf616b-19ab-484a-bead-9542b884dbd5.gif)
-![68747470733a2f2f6665726f73732e6e65742f782f636174732f362e676966](https://user-images.githubusercontent.com/93947784/190603868-80b3281c-dfe1-4440-b5f9-ad01876f599d.gif)
-# *<! -- `starshadeshinecometstarsuffsecur` -- >*
+![68747470733a2f2f6665726f73732e6e65742f782f636174732f362e676966](https://user-images.githubusercontent.com/93947784/190603868-80b3281c-dfe1-4440-b5f9-ad01876f599d.gif
+    
+
