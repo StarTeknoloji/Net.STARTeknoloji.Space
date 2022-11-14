@@ -1,4 +1,3 @@
-# *@starteknoloji.space*           
 ## **`https://net.starteknoloji.space`**
 # *`®`*
 # *@starteknoloji.net*
