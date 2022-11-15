@@ -41,7 +41,7 @@
 > # 10.`10:00 ve 19:00 Study.`**
      
 ## *Our project*
-> ## *Project STARSUFF private STARSHADE public
+## *Project STARSUFF private STARSHADE public*
 ## *ANNOUNCEMENT*
 ## *`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.`
 ## `Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com`
@@ -52,18 +52,18 @@
 >> <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 
 >> <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
->>> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
+>> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
 
->>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
+>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 ## *Site
->> ## [www.CodesExe.com Tracing](https://codesexe.com)        
->> ## [www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)
->> ## [https://starcomputer.space Jekyll](https://starcomputer.space)   
->> ## [www.codes.computer KaTeX](https://www.codes.computer)
+> ## [www.CodesExe.com Tracing](https://codesexe.com)        
+> ## [www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)
+> ## [https://starcomputer.space Jekyll](https://starcomputer.space)   
+> ## [www.codes.computer KaTeX](https://www.codes.computer)
 
-## *This is an Emerging Platform. 
--  Please Contribute 
+## *This is an Emerging Platform. #* 
+-  "Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
 -  [Reklam](https://net.starteknoloji.space/inbox)
 -  [404.](https://net.starteknoloji.space/inboks)
