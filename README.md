@@ -1,5 +1,5 @@
 ## **`https://net.starteknoloji.space`**
-# *`®`*
+
 # *@starteknoloji.net*
 # *@teknoloji.space*
 # *@teknoloji.email*
