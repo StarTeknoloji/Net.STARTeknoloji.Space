@@ -1,4 +1,4 @@
-- *[`STARnet` ***`STARnet``**``*``net``*``**``STARnet`*** MarketPlace YAYIN.
+- *`STARnet` `STARnet``net```STARnet` MarketPlace YAYINLANACAK.
 - *[STARnet @starnet app uygulamsı hayata gecirmeye calışıyorum]*
 # *https://net.starteknoloji.space**
 # *@starteknoloji.net*
