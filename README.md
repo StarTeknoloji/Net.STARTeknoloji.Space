@@ -1,10 +1,10 @@
-- *`STARnet` `STARnet``net```STARnet` MarketPlace YAYINLANACAK.
-- *[STARnet @starnet app uygulamsı hayata gecirmeye calışıyorum]*
+- `STARnet` `STARnet net ` MarketPlace YAYINLANACAK.
+- *STARnet @starnet APPLİCATİON uygulamsı hayata gecirmeye calışıyorum*
 # *https://net.starteknoloji.space**
 # *@starteknoloji.net*
 # *@teknoloji.space*
 # *@teknoloji.email*
-- starTeknoloji.tel ve teknoloji.tel ile devam edeçeğim
+- *starTeknoloji.tel ve teknoloji.tel ile devam edeçeğim*
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
