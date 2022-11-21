@@ -5,7 +5,7 @@
 # *@teknoloji.space*
 # *@teknoloji.email*
 # *@teknoloji.tel*
-- *starTeknoloji.tel ile devam edeceğim*
+- ***starTeknoloji.tel ile devam edeceğim***
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
