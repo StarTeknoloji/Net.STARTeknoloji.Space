@@ -1,0 +1,60 @@
+# Bu iş akışı, GitHub tarafından onaylanmayan eylemler kullanır.
+# Bir üçüncü şahıs tarafından sağlanırlar ve şuna tabidirler:
+# ayrı hizmet şartları, gizlilik politikası ve destek
+# belgeler.
+
+# Bu iş akışı kodu kontrol eder, bir Codacy güvenlik taraması gerçekleştirir
+# ve sonuçları ile entegre eder
+# GitHub Gelişmiş Güvenlik kodu tarama özelliği. hakkında daha fazla bilgi için
+# Codacy güvenlik taraması eylem kullanımı ve parametreleri, bkz.
+# https://github.com/codacy/codacy-analysis-cli-action.
+# Genel olarak Codacy Analysis CLI hakkında daha fazla bilgi için bkz.
+# https://github.com/codacy/codacy-analysis-cli.
+
+ad : Codacy Güvenlik Taraması
+
+üzerinde :
+  itmek :
+    şubeler : [ "gh-pages", StarTeknoloji-ercetin ]
+  pull_request :
+    # Aşağıdaki dallar, yukarıdaki dalların bir alt kümesi olmalıdır
+    dallar : [ "gh-sayfalar" ]
+  program :
+    - cron : '17 18 * * 0 '
+
+izinler :
+  içindekiler : oku
+
+işler :
+  codacy-security-tarama :
+    izinler :
+      içindekiler : kodu getirmek için eylemler/ödeme için # oku
+      security-events : SARIF sonuçlarını yüklemek için github/codeql-action/upload-sarif için # yazın
+    ad : Codacy Güvenlik Taraması
+    çalışan : ubuntu-en son
+    adımlar :
+      # Depoyu GitHub Actions çalıştırıcısına kontrol edin
+      - isim : Ödeme kodu
+        kullanımlar : action/checkout@v3
+
+      # Codacy Analysis CLI yürütün ve analiz sırasında tanımlanan güvenlik sorunlarıyla bir SARIF çıktısı oluşturun
+      - name : Codacy Analysis CLI'yi çalıştır
+        Kullanım Alanları : codacy/codacy-analysis-cli-action@d840f886c4bd4edc059706d09c6a1586111c540b
+        ile :
+          # Proje belirtecinizi Codacy deponuzdan almak için https://github.com/codacy/codacy-analysis-cli#project-token adresini kontrol edin
+          # Ayrıca belirteci atlayabilir ve varsayılan yapılandırmaları destekleyen araçları çalıştırabilirsiniz.
+          proje belirteci : ${{ secrets.CODACY_PROJECT_TOKEN }}
+          ayrıntılı : doğru
+          çıktı : sonuçlar.sarif
+          biçim : sarif
+          # Güvenlikle ilgili olmayan sorunların önem derecesini ayarlayın
+          gh-kodu-tarama-uyumluluğu : doğru
+          # SARIF dosyası oluşturmaya izin vermek için 0 çıkış kodunu zorla
+          # Bu, PR reddi ile ilgili kontrolü GitHub tarafına devredecek
+          izin verilen maksimum sorunlar : 2147483647
+
+      # Önceki adımda oluşturulan SARIF dosyasını yükleyin
+      - name : SARIF sonuç dosyasını yükleyin
+        kullanır : github/codeql-action/upload-sarif@v2
+        ile :
+          sarif_file : sonuçlar.sarif
