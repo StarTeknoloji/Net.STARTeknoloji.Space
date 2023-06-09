@@ -6,7 +6,7 @@
 # *@teknoloji.email*
 # *@teknoloji.tel*
 - ***starTeknoloji.tel ile devam edeceğim***
-
+%USERPROFILE%\AppData\Local\Google\Chrome\User Data\Profile 52\Web Applications\_crx_cjhjkonafodefpbjkokghlbhhimepdjc\JSON.ico
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
